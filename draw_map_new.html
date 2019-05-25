@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mapa rynku wtórnego</title>
+
+    <style>
+    html, body, #map {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    #map_canvas {
+        position: relative;
+    }
+    </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<script>
+function readFile(file, map, callback) {
+    var rawFile = new XMLHttpRequest();
+    rawFile.overrideMimeType("application/json");
+    rawFile.open("GET", file, true);
+    rawFile.onreadystatechange = function() {
+        if (rawFile.readyState === 4 && rawFile.status == "200") {
+            callback(map, rawFile.responseText);
+        }
+    }
+    rawFile.send(null);
+}
+
+function run() {
+    var mapCanvas = document.getElementById("map");
+    var mapOptions = {center: new google.maps.LatLng("52.2329171", "20.9909837"), zoom: 12, keyboardShortcuts: false};
+    var map = new google.maps.Map(mapCanvas, mapOptions);
+    readFile("flats_route_v2.json", map, drawMap);
+}
+
+function drawMap(map, jsonContent){
+    var offers = JSON.parse(jsonContent);
+
+    for(i in offers){
+        var pin;
+        if(offers[i]['price_m2_from'] || offers[i]['flat'][0]['price']){
+            pin = pinSymbol('green')
+        } else {
+            pin = pinSymbol('red')
+        }
+
+        var content = '<a href="'+offers[i]['url']+'">'+offers[i]['developer_name']+' - '+offers[i]['estate_name']+'</a><br>'+offers[i]['commissioning_date']+' - '+offers[i]['route_gmaps']['distance']+' km -> '+ offers[i]['route_gmaps']['duration']+' min'
+        if(offers[i]['price_m2_from']){
+            content = content + '<br>'+offers[i]['price_m2_from']+'-'+offers[i]['price_m2_to'] + ' PLN';
+        }
+        content = content + '<br>';
+
+        var passFlat = true;
+        flats = offers[i]['flat']
+        content = content + '<table border=\'1px solid black\' style=\'border-collapse: collapse\'><tr><th>Num</th><th>Rooms</th><th>Area</th><th>Floor</th><th>Price</th><th>Price per m^2</th></tr>'
+        for(j in flats){
+            content = content + '<tr>'
+            content = content + '<td>' + flats[j]['number']+'</td><td>'+flats[j]['rooms']+'</td><td>'+Math.round(flats[j]['area'])+'</td><td>'+flats[j]['floor']+'</td>';
+            if(flats[j]['price']){
+                content = content + '<td>' + flats[j]['price'].toLocaleString() +'</td><td>'+ Math.round(flats[j]['price_per_meter']).toLocaleString()+'</td>';
+                if(flats[j]['price']<550000){
+                    passFlat=false;
+                }
+            } else {
+                passFlat=false;
+            }
+            content = content + '</tr>'
+        }
+        content = content + '</table>'
+        if (passFlat){
+            //continue;
+        }
+        marker = new google.maps.Marker({
+            position: new google.maps.LatLng(offers[i]['latitude'], offers[i]['longitude']),
+            map: map,
+            icon: pin
+        });
+        var infowindow = new google.maps.InfoWindow()
+        google.maps.event.addListener(marker,'click', (function(marker, content, infowindow){
+            return function() {
+                infowindow.setContent(content);
+                infowindow.open(map,marker);
+            };
+        })(marker, content, infowindow));
+    }
+}
+
+function pinSymbol(color) {
+    return {
+        path: 'M 0,0 C -2,-20 -10,-22 -10,-30 A 10,10 0 1,1 10,-30 C 10,-22 2,-20 0,0 z',
+        fillColor: color,
+        fillOpacity: 1,
+        strokeColor: '#000',
+        strokeWeight: 2,
+        scale: 1
+    };
+}
+
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=&callback=run"></script>
+
+</body>
+</html>

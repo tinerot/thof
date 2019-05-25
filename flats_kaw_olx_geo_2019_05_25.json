@@ -3,7 +3,10 @@
         "address": "Warszawa, Praga-Północ, ul. Wołomińska",
         "district": "Warszawa, Praga-Północ",
         "id": "520215498",
+        "latitude": 52.259786699999985,
         "link": "https://www.otodom.pl/oferta/luksusowe-studio-w-sercu-pragi-ID3X6eA.html?",
+        "longitude": 21.053738499999998,
+        "precise": false,
         "title": "Luksusowe studio w sercu Pragi"
     },
     {
@@ -24,14 +27,20 @@
         "address": "Warszawa, Bemowo, Pełczyńskiego 20",
         "district": "Warszawa, Bemowo",
         "id": "532149678",
+        "latitude": 52.2434787,
         "link": "https://www.olx.pl/oferta/w-wa-bemowo-30-2-m2-pokoj-z-osobna-kuchnia-CID3-IDA0Qrk.html#205b506406;promoted",
+        "longitude": 20.907091,
+        "precise": true,
         "title": "W-wa Bemowo 30,2 m2.Pokój z osobną kuchnią."
     },
     {
         "address": "Warszawa, Targówek, ul. Władysława Syrokomli",
         "district": "Warszawa, Targówek",
         "id": "532260056",
+        "latitude": 52.285494,
         "link": "https://www.otodom.pl/oferta/bezposrednio-sloneczna-kawalerka-z-kuchnia-ID40EKs.html?;promoted",
+        "longitude": 21.0257115,
+        "precise": false,
         "title": "Bezpośrednio słoneczna Kawalerka z kuchnią"
     },
     {

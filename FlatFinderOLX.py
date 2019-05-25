@@ -4,6 +4,9 @@ from Utils import Utils
 import time, os
 from random import randint
 import json, datetime
+import smtplib, ssl
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 
 
 class FlatFinder:
@@ -342,17 +345,90 @@ class FlatFinder:
         text = text.replace('Górny Mokotów', 'Mokotów')
         return text
 
+    def send_email(self, url1, url2, url3, url4):
+        date_formatted = datetime.datetime.now().strftime("%d.%m.%Y")
+        smtp_server = "smtp.gmail.com"
+        port = 587  # For starttls
+        sender_email = "decapromolist@gmail.com"
+        receiver_email = "radlewand@gmail.com"
+        password = "pissss12"
+
+        message = MIMEMultipart("alternative")
+        message["Subject"] = "Mieszkania z dn. {}".format(date_formatted)
+        message["From"] = sender_email
+        message["To"] = receiver_email
+
+        url_flats1 = 'https://thof.github.io/draw_map.html?key={}&list={}&list={}'.format(self.api_key, url1, url2)
+        url_flats2 = 'https://thof.github.io/draw_map.html?key={}&list={}&list={}'.format(self.api_key, url3, url4)
+        url_flats3 = 'https://thof.github.io/print_unknown.html?list={}&list={}'.format(url1, url2)
+        url_flats4 = 'https://thof.github.io/print_unknown.html?list={}&list={}'.format(url3, url4)
+
+        html = """\
+        <html>
+          <body>
+            <p>Mieszkania z dn. {}</p>
+            <p>   
+                <a href="{}">Mapa mieszkań</a><br>
+                <a href= "{}">Mieszkania bez lokalizacji</a>
+            </p>
+            <p>   
+                <a href="{}">Mapa kawalerek</a><br>
+                <a href= "{}">Kawalerki bez lokalizacji</a>
+            </p>
+          </body>
+        </html>
+        """.format(date_formatted, url_flats1, url_flats3, url_flats2, url_flats4)
+        message.attach(MIMEText(html, "html"))
+
+        # Create a secure SSL context
+        context = ssl.create_default_context()
+        # Try to log in to server and send email
+        context = ssl.create_default_context()
+        with smtplib.SMTP_SSL(smtp_server, 465, context=context) as server:
+            server.login(sender_email, password)
+            server.sendmail(sender_email, receiver_email, message.as_string())
+
 
 if __name__ == "__main__":
     flat = FlatFinder()
+
+    today_date = datetime.datetime.now().strftime("%Y_%m_%d")
+    flats_gumtree_geo = 'flats_gumtree_geo_{}.json'.format(today_date)
+    flats_olx_geo = 'flats_olx_geo_{}.json'.format(today_date)
+    flats_kaw_gumtree_geo = 'flats_kaw_gumtree_geo_{}.json'.format(today_date)
+    flats_kaw_olx_geo = 'flats_kaw_olx_geo_{}.json'.format(today_date)
+
     print('\nChecking gumtree:')
     flat.get_flats_gumtree('flats_gumtree',
                            '/s-mieszkania-i-domy-sprzedam-i-kupie/warszawa/v1c9073l3200008p1?df=ownr&pr=,450000&sort=dt&order=desc', 'id_gumtree.json',  min_flat_size=38)
-    flat.get_geolocalization('flats_gumtree.json', 'flats_gumtree_geo.json')
+    flat.get_geolocalization('flats_gumtree.json', flats_gumtree_geo)
     print('Checking olx:')
     flat.get_flats_olx('flats_olx',
                        '/nieruchomosci/mieszkania/sprzedaz/warszawa/?search%5Bfilter_float_price%3Ato%5D=450000&search%5Bfilter_float_m%3Afrom%5D=38&search%5Bfilter_enum_rooms%5D%5B0%5D=two&search%5Bfilter_enum_rooms%5D%5B1%5D=three&search%5Bfilter_enum_rooms%5D%5B2%5D=four&search%5Bphotos%5D=1&search%5Bprivate_business%5D=private&search%5Border%5D=created_at%3Adesc', 'id_olx.json')
-    flat.get_geolocalization('flats_olx.json', 'flats_olx_geo.json')
+    flat.get_geolocalization('flats_olx.json', flats_olx_geo)
+
+    print('\nKawalerki Checking gumtree:')
+    flat.get_flats_gumtree('flats_kaw_gumtree',
+                           '/s-mieszkania-i-domy-sprzedam-i-kupie/warszawa/v1c9073l3200008p1?df=ownr&pr=,330000&nr=10&sort=dt&order=desc',
+                           'id_kaw_gumtree.json', min_flat_size=29)
+    flat.get_geolocalization('flats_kaw_gumtree.json', flats_kaw_gumtree_geo)
+    print('Kawalerki Checking olx:')
+    flat.get_flats_olx('fla'
+                       'ts_kaw_olx',
+                       '/nieruchomosci/mieszkania/sprzedaz/warszawa/?search[filter_float_price%3Ato]=330000&search[filter_float_m%3Afrom]=29&search[filter_enum_rooms][0]=one&search[photos]=1&search[private_business]=private&search[order]=created_at%3Adesc',
+                       'id_kaw_olx.json')
+    flat.get_geolocalization('flats_kaw_olx.json', flats_kaw_olx_geo)
+
+    # print flats where the geolocation in unknown
+    flat.print_uknown(flats_olx_geo)
+    flat.print_uknown(flats_gumtree_geo)
+
+    # print flats where the geolocation in unknown
+    flat.print_uknown(flats_kaw_olx_geo)
+    flat.print_uknown(flats_kaw_gumtree_geo)
+
+    flat.send_email(flats_gumtree_geo, flats_olx_geo, flats_kaw_gumtree_geo, flats_kaw_olx_geo)
+
 
     # flats to 450 000
     # print('\nChecking 450 gumtree:')
@@ -365,32 +441,9 @@ if __name__ == "__main__":
     #                    '/nieruchomosci/mieszkania/sprzedaz/warszawa/?search%5Bfilter_float_price%3Ato%5D=450000&search%5Bfilter_float_price%3Afrom%5D=420000&search%5Bfilter_enum_market%5D%5B0%5D=secondary&search%5Bfilter_float_m%3Afrom%5D=38&search%5Bfilter_enum_rooms%5D%5B0%5D=four&search%5Bfilter_enum_rooms%5D%5B1%5D=three&search%5Bfilter_enum_rooms%5D%5B2%5D=two&search%5Bphotos%5D=1&search%5Bprivate_business%5D=private&search%5Border%5D=created_at%3Adesc',
     #                    'id_450_olx.json')
     # flat.get_geolocalization('flats_450_olx.json', 'flats_450_olx_geo.json')
-
-    print('\nKawalerki Checking gumtree:')
-    flat.get_flats_gumtree('flats_kaw_gumtree',
-                           '/s-mieszkania-i-domy-sprzedam-i-kupie/warszawa/v1c9073l3200008p1?df=ownr&pr=,330000&nr=10&sort=dt&order=desc',
-                           'id_kaw_gumtree.json', min_flat_size=29)
-    flat.get_geolocalization('flats_kaw_gumtree.json', 'flats_kaw_gumtree_geo.json')
-    print('Kawalerki Checking olx:')
-    flat.get_flats_olx('fla'
-                       'ts_kaw_olx',
-                       '/nieruchomosci/mieszkania/sprzedaz/warszawa/?search[filter_float_price%3Ato]=330000&search[filter_float_m%3Afrom]=29&search[filter_enum_rooms][0]=one&search[photos]=1&search[private_business]=private&search[order]=created_at%3Adesc',
-                       'id_kaw_olx.json')
-    flat.get_geolocalization('flats_kaw_olx.json', 'flats_kaw_olx_geo.json')
-
-    # print flats where the geolocation in unknown
-    flat.print_uknown('flats_olx_geo.json')
-    flat.print_uknown('flats_gumtree_geo.json')
-
     # print flats where the geolocation in unknown
     # flat.print_uknown('flats_450_olx_geo.json')
     # flat.print_uknown('flats_450_gumtree_geo.json')
-
-    # print flats where the geolocation in unknown
-    flat.print_uknown('flats_kaw_olx_geo.json')
-    flat.print_uknown('flats_kaw_gumtree_geo.json')
-
-
 
     # print('\nChecking gumtree garages:')
     # flat.get_flats_gumtree('garage1_gumtree',

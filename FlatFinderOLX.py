@@ -22,10 +22,11 @@ class FlatFinder:
                                      'v1u111780756p1', 'v1u114087830p1', 'v1u114097713p1', 'v1u104729696p1',
                                      'v1u104780607p1', 'v1u104780607p1', 'v1u104740910p1', 'v1u104686003p1',
                                      'v1u104765304p1', 'v1u114677170p1', 'v1u113405180p1', 'v1u117645552p1',
-                                     'v1u123901501p1', 'v1u123905547p1']
+                                     'v1u123901501p1', 'v1u123905547p1', 'v1u112446767p1']
         # Google API key
         self.api_key = os.environ['API_KEY']
         self.city_name = 'Warszawa'
+        self.gumtree_min_flat_size = 30
 
         self.headers = {'User-Agent': "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:48.0) Gecko/20100101 Firefox/48.0"}
         self.flats = []
@@ -170,6 +171,17 @@ class FlatFinder:
         # if not (len(garage_tab) > 1 and not str(garage_tab[-1].text_content()).find('garaż/miejsce parkingowe')):
         #    return None
         try:
+            try:
+                json_elem = html_page.xpath('//script[@id="server-app-state"]')
+                json_content = json.loads(json_elem[0].text_content())
+                address = json_content['initialProps']['data']['advert']['breadcrumb'][-1]['label']
+                to_remove = district.split(',')
+                for rem in to_remove:
+                    address = address.replace(rem.strip(), '')
+                if len(address.strip()) > 0:
+                    return '{}, {}'.format(district, address)
+            except Exception:
+                pass
             address = html_page.xpath('//a[contains(@href, "street_id")]')
             if address:
                 address = address[0].text_content()
@@ -225,11 +237,16 @@ class FlatFinder:
             return None
         flat_struct['district'] = re.sub(r'\s{2,}', '',
                                          str(html_page.xpath('//div[@class="location"]')[1].text_content()))
-        if ',' in flat_struct['address']:
-            # remove postcode
-            result = re.findall(r'\d{2}-\d{3}', flat_struct['address'])
-            if len(result) > 0:
-                flat_struct['address'] = flat_struct['address'].replace(result[0], '')
+        remove_part = flat_struct['district'].split(',')
+        for rem in remove_part:
+            flat_struct['address'] = flat_struct['address'].replace(rem.strip(), '')
+        flat_struct['address'] = flat_struct['address'].replace(',', '')
+        # remove postcode
+        result = re.findall(r'\d{2}-\d{3}', flat_struct['address'])
+        if len(result) > 0:
+            flat_struct['address'] = flat_struct['address'].replace(result[0], '')
+        if len(flat_struct['address'].strip()) > 0:
+            flat_struct['address'] = '{}, {}'.format(flat_struct['district'], flat_struct['address'])
             return flat_struct
         description = str(html_page.xpath('//div[@class="description"]')[0].text_content())
         flat_struct['address'] = self.find_address(description)
@@ -348,10 +365,10 @@ class FlatFinder:
     def send_email(self, url1, url2, url3, url4):
         date_formatted = datetime.datetime.now().strftime("%d.%m.%Y")
         smtp_server = "smtp.gmail.com"
-        port = 587  # For starttls
+        port = 465
         sender_email = "decapromolist@gmail.com"
-        receiver_email = "radlewand@gmail.com"
-        password = "pissss12"
+        receiver_email = os.environ['EMAIL_RECEIVER']
+        password = os.environ['EMAIL_PASSWORD']
 
         message = MIMEMultipart("alternative")
         message["Subject"] = "Mieszkania z dn. {}".format(date_formatted)
@@ -384,13 +401,16 @@ class FlatFinder:
         context = ssl.create_default_context()
         # Try to log in to server and send email
         context = ssl.create_default_context()
-        with smtplib.SMTP_SSL(smtp_server, 465, context=context) as server:
+        with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
             server.login(sender_email, password)
             server.sendmail(sender_email, receiver_email, message.as_string())
 
 
 if __name__ == "__main__":
     flat = FlatFinder()
+    flat.process_otodom('test', 'https://www.otodom.pl/oferta/bezposrednio-ochota-wlochy-2-pok-38m2-ID40xbC.html?', 'Warszawa, Praga-Północ')
+    # flat_struct = {'link': 'https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/bezposrednio-od-wlasciciela-+-przestronne-mieszkanie-2-pietro-niedaleko-ronda-wiatraczna/1005021510280911545163909'}
+    # flat.process_gumtree(flat_struct)
 
     today_date = datetime.datetime.now().strftime("%Y_%m_%d")
     flats_gumtree_geo = 'flats_gumtree_geo_{}.json'.format(today_date)

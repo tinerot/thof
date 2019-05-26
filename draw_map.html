@@ -63,7 +63,7 @@ function drawMap(map, jsonContent){
             icon: pin
         });
 
-        var content = '<a href="'+flats[i]['link']+'">'+flats[i]['title']+'</a><br>'+flats[i]['address'];
+        var content = '<a target="_blank" rel="noopener noreferrer" href="'+flats[i]['link']+'">'+flats[i]['title']+'</a><br>'+flats[i]['address'];
         var infowindow = new google.maps.InfoWindow()
         google.maps.event.addListener(marker,'click', (function(marker, content, infowindow){
             return function() {

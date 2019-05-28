@@ -17,7 +17,10 @@
         "address": "Warszawa, Ochota, SULMIERZYCKIEJ\r",
         "district": "Warszawa, Ochota",
         "id": "533405234",
+        "latitude": 52.1926357,
         "link": "https://www.olx.pl/oferta/bezposrednio-ustawne-2-pokojowe-38m-mieszkanie-b-centrum-tramwaje-CID3-IDA674e.html#343ed7b49d",
+        "longitude": 20.9716089,
+        "precise": false,
         "title": "BEZPOŚREDNIO, ustawne 2 pokojowe 38m. mieszkanie b. Centrum (tramwaje)"
     },
     {
@@ -31,7 +34,10 @@
         "address": "Warszawa, Bielany, Nocznickiego ",
         "district": "Warszawa, Bielany",
         "id": "533510586",
+        "latitude": 52.290187399999986,
         "link": "https://www.olx.pl/oferta/mieszkanie-na-sprzedaz-3-pokoje-metro-mlociny-CID3-IDA6yts.html#343ed7b49d",
+        "longitude": 20.9297625,
+        "precise": false,
         "title": "Mieszkanie na sprzedaż - 3 pokoje, metro Młociny"
     }
 ]

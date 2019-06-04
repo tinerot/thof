@@ -408,7 +408,7 @@ class FlatFinder:
 
 if __name__ == "__main__":
     flat = FlatFinder()
-    flat.process_otodom('test', 'https://www.otodom.pl/oferta/bezposrednio-ochota-wlochy-2-pok-38m2-ID40xbC.html?', 'Warszawa, Praga-Północ')
+    # flat.process_otodom('test', 'https://www.otodom.pl/oferta/bezposrednio-ochota-wlochy-2-pok-38m2-ID40xbC.html?', 'Warszawa, Praga-Północ')
     # flat_struct = {'link': 'https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/bezposrednio-od-wlasciciela-+-przestronne-mieszkanie-2-pietro-niedaleko-ronda-wiatraczna/1005021510280911545163909'}
     # flat.process_gumtree(flat_struct)
 
@@ -416,6 +416,7 @@ if __name__ == "__main__":
     flats_gumtree_geo = 'flats_gumtree_geo_{}.json'.format(today_date)
     flats_olx_geo = 'flats_olx_geo_{}.json'.format(today_date)
     flats_kaw_gumtree_geo = 'flats_kaw_gumtree_geo_{}.json'.format(today_date)
+    flats_kaw_olx_geo = 'flats_kaw_olx_geo_{}.json'.format(today_date)
     flats_kaw_olx_geo = 'flats_kaw_olx_geo_{}.json'.format(today_date)
 
     print('\nChecking gumtree:')

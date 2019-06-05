@@ -374,6 +374,7 @@ class FlatFinder:
         message["Subject"] = "Mieszkania z dn. {}".format(date_formatted)
         message["From"] = sender_email
         message["To"] = receiver_email
+        receiver_emails = receiver_email.split(',')
 
         url_flats1 = 'https://thof.github.io/draw_map.html?key={}&list={}&list={}'.format(self.api_key, url1, url2)
         url_flats2 = 'https://thof.github.io/draw_map.html?key={}&list={}&list={}'.format(self.api_key, url3, url4)
@@ -403,7 +404,7 @@ class FlatFinder:
         context = ssl.create_default_context()
         with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
             server.login(sender_email, password)
-            server.sendmail(sender_email, receiver_email, message.as_string())
+            server.sendmail(sender_email, receiver_emails, message.as_string())
 
 
 if __name__ == "__main__":

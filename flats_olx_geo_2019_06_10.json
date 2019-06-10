@@ -1,30 +1,42 @@
 [
     {
-        "address": "Warszawa, Ochota, Urbanistów",
+        "address": "Warszawa, Ochota, UrbanistĂłw",
         "district": "Warszawa, Ochota",
         "id": "509065564",
+        "latitude": 52.2104359,
         "link": "https://www.olx.pl/oferta/mieszkanie-CID3-IDyrZcU.html#343ed7b49d;promoted",
+        "longitude": 20.9714206,
+        "precise": false,
         "title": "Mieszkanie"
     },
     {
-        "address": "Warszawa, Targówek, Wyszogrodzka 7",
-        "district": "Warszawa, Targówek",
+        "address": "Warszawa, TargĂłwek, Wyszogrodzka 7",
+        "district": "Warszawa, TargĂłwek",
         "id": "532627631",
+        "latitude": 52.290223,
         "link": "https://www.otodom.pl/oferta/po-generalnym-remoncie-2-pokojowe-o-pow-47-2-m2-ID40Irt.html?",
+        "longitude": 21.0326369,
+        "precise": true,
         "title": "Po generalnym remoncie 2 pokojowe o pow. 47,2 m2"
     },
     {
-        "address": "Warszawa, Targówek, Wyszogrodzkiej ",
-        "district": "Warszawa, Targówek",
+        "address": "Warszawa, TargĂłwek, Wyszogrodzkiej ",
+        "district": "Warszawa, TargĂłwek",
         "id": "532627866",
+        "latitude": 52.2888531,
         "link": "https://www.olx.pl/oferta/po-generalnym-remoncie-2-pokojowe-o-pow-47-2-m2-bezposrednio-CID3-IDA2QQ2.html#21aaa1c267",
-        "title": "Po generalnym remoncie 2 pokojowe o pow. 47,2 m2 - Bezpośrednio"
+        "longitude": 21.0366018,
+        "precise": false,
+        "title": "Po generalnym remoncie 2 pokojowe o pow. 47,2 m2 - BezpoĹ›rednio"
     },
     {
-        "address": "Warszawa, Wola, Wolską ",
+        "address": "Warszawa, Wola, WolskÄ… ",
         "district": "Warszawa, Wola",
         "id": "535840075",
+        "latitude": 52.23113270000001,
         "link": "https://www.otodom.pl/oferta/mieszkanie-53m-z-tarasem-24m-dach-warszawa-wola-ID40YGc.html?",
+        "longitude": 20.954532399999998,
+        "precise": false,
         "title": "Mieszkanie 53m z tarasem 24m DACH - Warszawa Wola"
     },
     {
@@ -35,32 +47,41 @@
         "title": "Przytulne mieszkanie gotowe do wprowadzenia !"
     },
     {
-        "address": "Warszawa, Ursynów, Albatrosów",
-        "district": "Warszawa, Ursynów",
+        "address": "Warszawa, UrsynĂłw, AlbatrosĂłw",
+        "district": "Warszawa, UrsynĂłw",
         "id": "535892911",
+        "latitude": 52.2296756,
         "link": "https://www.olx.pl/oferta/super-mieszkanie-40-m2-ursynow-warszawa-plus-miejsce-postojowe-CID3-IDAgye3.html#343ed7b49d;promoted",
-        "title": "Super mieszkanie 40 m2 Ursynów Warszawa plus miejsce postojowe"
+        "longitude": 21.0124287,
+        "precise": false,
+        "title": "Super mieszkanie 40 m2 UrsynĂłw Warszawa plus miejsce postojowe"
     },
     {
-        "address": "Warszawa, Praga-Południe, ul. gen. Tadeusza Bora-Komorowskiego",
-        "district": "Warszawa, Praga-Południe",
+        "address": "Warszawa, Praga-PoĹ‚udnie, ul. gen. Tadeusza Bora-Komorowskiego",
+        "district": "Warszawa, Praga-PoĹ‚udnie",
         "id": "535916072",
+        "latitude": 52.225651000000006,
         "link": "https://www.otodom.pl/oferta/sprzedam-rozkladowe-mieszkanie-goclaw-przy-petli-ID40YZP.html?",
-        "title": "Sprzedam rozkładowe mieszkanie Gocław przy pętli"
+        "longitude": 21.0900105,
+        "precise": false,
+        "title": "Sprzedam rozkĹ‚adowe mieszkanie GocĹ‚aw przy pÄ™tli"
     },
     {
         "address": null,
-        "district": "Warszawa, Targówek",
+        "district": "Warszawa, TargĂłwek",
         "id": "535979440",
         "link": "https://www.olx.pl/oferta/bezposrednio-2-pokojowe-o-pow-47-2-m2-CID3-IDAgUJG.html#343ed7b49d",
-        "title": "Bezpośrednio - 2 pokojowe o pow. 47,2 m2"
+        "title": "BezpoĹ›rednio - 2 pokojowe o pow. 47,2 m2"
     },
     {
-        "address": "Warszawa, Targówek, Mieszkaniowy",
-        "district": "Warszawa, Targówek",
+        "address": "Warszawa, TargĂłwek, Mieszkaniowy",
+        "district": "Warszawa, TargĂłwek",
         "id": "535998363",
+        "latitude": 52.2722763,
         "link": "https://www.otodom.pl/oferta/targowek-ul-wyszogrodzka-46m2-3pok-cena-397tys-zl-ID40ZmF.html?",
-        "title": "Targówek-ul.Wyszogrodzka,46m2,3pok.,cena 397tys.zł"
+        "longitude": 21.0540728,
+        "precise": false,
+        "title": "TargĂłwek-ul.Wyszogrodzka,46m2,3pok.,cena 397tys.zĹ‚"
     },
     {
         "address": null,
@@ -73,7 +94,10 @@
         "address": "Warszawa, ul. Wyszogrodzka",
         "district": "Warszawa",
         "id": "536065227",
+        "latitude": 52.2885531,
         "link": "https://www.otodom.pl/oferta/targowek-10-min-metro-bezposrednio-ID40ZE1.html?",
-        "title": "Targówek, 10 min metro, BEZPOŚREDNIO"
+        "longitude": 21.0357018,
+        "precise": false,
+        "title": "TargĂłwek, 10 min metro, BEZPOĹšREDNIO"
     }
 ]

@@ -10,7 +10,7 @@ class Utils:
 
     @staticmethod
     def read_json_file(filename):
-        file = open(filename, 'r')
+        file = open(filename, 'r', encoding='utf8')
         return json.load(file)
 
     @staticmethod
@@ -20,12 +20,12 @@ class Utils:
 
     @staticmethod
     def read_file(filename):
-        file = open(filename, 'r')
+        file = open(filename, 'r', encoding='utf8')
         return file.read()
 
     @staticmethod
     def save_csv_file(filename, data):
-        with open(filename, mode='w') as file:
+        with open(filename, mode='w', encoding='utf8') as file:
             writer = csv.writer(file, delimiter=';')
             writer.writerows(data)
 

@@ -22,7 +22,7 @@ class FlatFinder:
                                      'v1u111780756p1', 'v1u114087830p1', 'v1u114097713p1', 'v1u104729696p1',
                                      'v1u104780607p1', 'v1u104780607p1', 'v1u104740910p1', 'v1u104686003p1',
                                      'v1u104765304p1', 'v1u114677170p1', 'v1u113405180p1', 'v1u117645552p1',
-                                     'v1u123901501p1', 'v1u123905547p1', 'v1u112446767p1']
+                                     'v1u123901501p1', 'v1u123905547p1', 'v1u112446767p1', 'v1u105050789p1']
         # Google API key
         self.api_key = os.environ['API_KEY']
         self.city_name = 'Warszawa'
@@ -362,8 +362,14 @@ class FlatFinder:
         text = text.replace('Górny Mokotów', 'Mokotów')
         return text
 
-    def send_email(self, url1, url2, url3, url4):
-        date_formatted = datetime.datetime.now().strftime("%d.%m.%Y")
+    def send_email(self, file1, file2, file3, file4):
+        content1 = Utils.read_json_file(file1)
+        content2 = Utils.read_json_file(file2)
+        content3 = Utils.read_json_file(file3)
+        content4 = Utils.read_json_file(file4)
+        if not content1 and not content2 and not content3 and not content4:
+            return
+        date_formatted = datetime.datetime.now().strftime("%d.%m.%Y %H:%M")
         smtp_server = "smtp.gmail.com"
         port = 465
         sender_email = "decapromolist@gmail.com"
@@ -376,30 +382,34 @@ class FlatFinder:
         message["To"] = receiver_email
         receiver_emails = receiver_email.split(',')
 
-        url_flats1 = 'https://thof.github.io/draw_map.html?key={}&list={}&list={}'.format(self.api_key, url1, url2)
-        url_flats2 = 'https://thof.github.io/draw_map.html?key={}&list={}&list={}'.format(self.api_key, url3, url4)
-        url_flats3 = 'https://thof.github.io/print_unknown.html?list={}&list={}'.format(url1, url2)
-        url_flats4 = 'https://thof.github.io/print_unknown.html?list={}&list={}'.format(url3, url4)
+        url_flats1 = 'https://thof.github.io/draw_map.html?key={}&list={}&list={}'.format(self.api_key, file1, file2)
+        url_flats2 = 'https://thof.github.io/draw_map.html?key={}&list={}&list={}'.format(self.api_key, file3, file4)
+        url_flats3 = 'https://thof.github.io/print_unknown.html?list={}&list={}'.format(file1, file2)
+        url_flats4 = 'https://thof.github.io/print_unknown.html?list={}&list={}'.format(file3, file4)
 
         html = """\
         <html>
           <body>
             <p>Mieszkania z dn. {}</p>
-            <p>   
+            <p>
+        """.format(date_formatted)
+        if content1 or content2:
+            html = """{}\
                 <a href="{}">Mapa mieszkań</a><br>
                 <a href= "{}">Mieszkania bez lokalizacji</a>
-            </p>
-            <p>   
+            """.format(html, url_flats1, url_flats3)
+        html = "{}</p><p>".format(html)
+        if content3 or content4:
+            html = """{}\
                 <a href="{}">Mapa kawalerek</a><br>
                 <a href= "{}">Kawalerki bez lokalizacji</a>
+                """.format(html, url_flats2, url_flats4)
+        html = """{}\
             </p>
           </body>
-        </html>
-        """.format(date_formatted, url_flats1, url_flats3, url_flats2, url_flats4)
+        </html>""".format(html)
         message.attach(MIMEText(html, "html"))
 
-        # Create a secure SSL context
-        context = ssl.create_default_context()
         # Try to log in to server and send email
         context = ssl.create_default_context()
         with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
@@ -413,7 +423,7 @@ if __name__ == "__main__":
     # flat_struct = {'link': 'https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/bezposrednio-od-wlasciciela-+-przestronne-mieszkanie-2-pietro-niedaleko-ronda-wiatraczna/1005021510280911545163909'}
     # flat.process_gumtree(flat_struct)
 
-    today_date = datetime.datetime.now().strftime("%Y_%m_%d")
+    today_date = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M")
     flats_gumtree_geo = 'flats_gumtree_geo_{}.json'.format(today_date)
     flats_olx_geo = 'flats_olx_geo_{}.json'.format(today_date)
     flats_kaw_gumtree_geo = 'flats_kaw_gumtree_geo_{}.json'.format(today_date)

@@ -12,7 +12,7 @@ from email.mime.multipart import MIMEMultipart
 class FlatFinder:
     def __init__(self):
         # flats from the following districts are to be ignored
-        self.blacklist = ['Białołęka', 'Wilanów', 'Wesoła', 'Wawer', 'Ursus', 'Rembertów', 'Tarchomin']
+        self.blacklist = ['Białołęka', 'Wilanów', 'Wesoła', 'Wawer', 'Ursus', 'Rembertów', 'Tarchomin', 'Bródno', 'Bemowo', 'Włochy']
         # blacklist for gumtree spammers
         self.gumtree_banned_users = ['v1u104723556p1', 'v1u114062620p1', 'v1u106631557p1', 'v1u114307443p1',
                                      'v1u104708683p1', 'v1u110031518p1', 'v1u112951387p1', 'v1u112279346p1',

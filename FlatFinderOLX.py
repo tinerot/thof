@@ -319,8 +319,7 @@ class FlatFinder:
         self.flats = Utils.read_json_file(filename_src)
         url_base = 'https://maps.googleapis.com/maps/api/geocode/json?key={}&region=pl&address='.format(self.api_key)
         for flat in self.flats:
-            if not flat['address']:
-                continue
+            if not flat['address']:                continue
             if self.has_digit(flat['address']):
                 flat['precise'] = True
             else:
@@ -397,21 +396,21 @@ class FlatFinder:
             <p>Mieszkania z dn. {}</p>
             <p>
         """.format(date_formatted)
-        if [True for elem in content1 if elem['precise']] or [True for elem in content2 if elem['precise']]:
+        if [True for elem in content1 if elem['address']] or [True for elem in content2 if elem['address']]:
             html = """{}\
                 <a href="{}">Mapa mieszkań</a><br>
             """.format(html, url_flats1)
-        if [True for elem in content1 if not elem['precise']] or [True for elem in content2 if not elem['precise']]:
+        if [True for elem in content1 if not elem['address']] or [True for elem in content2 if not elem['address']]:
             html = """{}\
                 <a href= "{}">Mieszkania bez lokalizacji</a>
             """.format(html, url_flats3)
 
         html = "{}</p><p>".format(html)
-        if [True for elem in content3 if elem['precise']] or [True for elem in content4 if elem['precise']]:
+        if [True for elem in content3 if elem['address']] or [True for elem in content4 if elem['address']]:
             html = """{}\
                 <a href="{}">Mapa kawalerek</a><br>
                 """.format(html, url_flats2)
-        if [True for elem in content3 if not elem['precise']] or [True for elem in content4 if not elem['precise']]:
+        if [True for elem in content3 if not elem['address']] or [True for elem in content4 if not elem['address']]:
             html = """{}\
                 <a href= "{}">Kawalerki bez lokalizacji</a>
                 """.format(html, url_flats4)

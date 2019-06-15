@@ -1,0 +1,2 @@
+docker build -t flatfinder:0.1 -f Docker/Dockerfile .
+docker run -it flatfinder:0.1

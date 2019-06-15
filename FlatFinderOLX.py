@@ -1,4 +1,6 @@
 import re, socket, urllib.request, urllib.parse, urllib.error
+
+from ftdi1 import context
 from lxml import html
 from Utils import Utils
 import time, os
@@ -369,6 +371,8 @@ class FlatFinder:
         content4 = Utils.read_json_file(file4)
         if not content1 and not content2 and not content3 and not content4:
             return
+
+
         date_formatted = datetime.datetime.now().strftime("%d.%m.%Y %H:%M")
         smtp_server = "smtp.gmail.com"
         port = 465
@@ -393,17 +397,24 @@ class FlatFinder:
             <p>Mieszkania z dn. {}</p>
             <p>
         """.format(date_formatted)
-        if content1 or content2:
+        if [True for elem in content1 if elem['precise']] or [True for elem in content2 if elem['precise']]:
             html = """{}\
                 <a href="{}">Mapa mieszkań</a><br>
+            """.format(html, url_flats1)
+        if [True for elem in content1 if not elem['precise']] or [True for elem in content2 if not elem['precise']]:
+            html = """{}\
                 <a href= "{}">Mieszkania bez lokalizacji</a>
-            """.format(html, url_flats1, url_flats3)
+            """.format(html, url_flats3)
+
         html = "{}</p><p>".format(html)
-        if content3 or content4:
+        if [True for elem in content3 if elem['precise']] or [True for elem in content4 if elem['precise']]:
             html = """{}\
                 <a href="{}">Mapa kawalerek</a><br>
+                """.format(html, url_flats2)
+        if [True for elem in content3 if not elem['precise']] or [True for elem in content4 if not elem['precise']]:
+            html = """{}\
                 <a href= "{}">Kawalerki bez lokalizacji</a>
-                """.format(html, url_flats2, url_flats4)
+                """.format(html, url_flats4)
         html = """{}\
             </p>
           </body>

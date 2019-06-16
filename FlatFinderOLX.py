@@ -369,6 +369,7 @@ class FlatFinder:
         content3 = Utils.read_json_file(file3)
         content4 = Utils.read_json_file(file4)
         if not content1 and not content2 and not content3 and not content4:
+            print("Nothing to send!")
             return
 
 

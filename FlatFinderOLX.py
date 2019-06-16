@@ -1,6 +1,4 @@
 import re, socket, urllib.request, urllib.parse, urllib.error
-
-from ftdi1 import context
 from lxml import html
 from Utils import Utils
 import time, os

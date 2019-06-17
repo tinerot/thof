@@ -10,14 +10,20 @@
         "address": "Warszawa, Praga-Południe, Grochów",
         "district": "Warszawa, Praga-Południe",
         "id": "537412964",
+        "latitude": 52.2402633,
         "link": "https://www.otodom.pl/oferta/sprzedam-bezposrednio-mieszkanie-pokoj-z-kuchnia-ID401lu.html?",
+        "longitude": 21.087627599999998,
+        "precise": false,
         "title": "Sprzedam BEZPOŚREDNIO mieszkanie – pokój z kuchnią"
     },
     {
         "address": "Warszawa, Wola, ul. Obozowa",
         "district": "Warszawa, Wola",
         "id": "537440511",
+        "latitude": 52.24766930000001,
         "link": "https://www.otodom.pl/oferta/bezposrednio-od-wlasciciela-mieszkanie-po-remoncie-ID416M4.html?",
+        "longitude": 20.9554332,
+        "precise": false,
         "title": "Bezposrednio od wlasciciela mieszkanie po remoncie"
     }
 ]

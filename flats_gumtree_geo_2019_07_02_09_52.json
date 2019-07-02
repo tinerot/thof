@@ -3,14 +3,20 @@
         "address": "Targówek,Warszawa, Wyszogrodzka",
         "district": "Targówek,Warszawa",
         "id": "533423770",
+        "latitude": 52.2890531,
         "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/targowek+ul-wyszogrodzka-3-pok-widna-kuchnia-balkon-piwnica-park+po-remoncie-+397tys/1005334237700910944401209",
+        "longitude": 21.036101799999997,
+        "precise": false,
         "title": "Targówek-ul.Wyszogrodzka,3 pok.,widna kuchnia,balkon,piwnica,PARK-PO REMONCIE!!!-397tys."
     },
     {
         "address": "Bielany,Warszawa,   Bogusławskiego",
         "district": "Bielany,Warszawa",
         "id": "533568978",
+        "latitude": 52.2792217,
         "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/bielany/sprzedam-mieszkanie-53m2-2-pokoje-warszawa-bielany/1005335689780910470624809",
+        "longitude": 20.917239499999997,
+        "precise": false,
         "title": "SPRZEDAM MIESZKANIE, 53m2, 2 POKOJE, WARSZAWA, BIELANY"
     },
     {
@@ -31,21 +37,30 @@
         "address": "Praga Południe,Warszawa, Kompasowej 12",
         "district": "Praga Południe,Warszawa",
         "id": "534197220",
+        "latitude": 52.2320329,
         "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/2-pok-mieszkanie-46m2-goclaw-po-remoncie-park-bezposrednio/1005341972200910501258009",
+        "longitude": 21.084348,
+        "precise": true,
         "title": "2 pok mieszkanie 46m2; Gocław; po remoncie, park, BEZPOŚREDNIO"
     },
     {
         "address": "Targówek,Warszawa, POBORZAŃSKA 4",
         "district": "Targówek,Warszawa",
         "id": "534207881",
+        "latitude": 52.288811,
         "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/mieszkanie-2-pokojowe-42-5-m2+-brodno/1005342078810910506264109",
+        "longitude": 21.025841,
+        "precise": true,
         "title": "Mieszkanie 2 pokojowe 42,5 m2- Bródno"
     },
     {
         "address": "Praga Północ,Warszawa, Aleja Tysiąclecia",
         "district": "Praga Północ,Warszawa",
         "id": "534305062",
+        "latitude": 52.25628159999999,
         "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-polnoc/mieszkanie-38m2-praga-polnoc-+-2-pokoje/1005343050620912428762909",
+        "longitude": 21.0534672,
+        "precise": false,
         "title": "Mieszkanie 38m2 Praga Północ - 2 pokoje"
     },
     {
@@ -73,7 +88,10 @@
         "address": "Targówek,Warszawa, Goławickiej ",
         "district": "Targówek,Warszawa",
         "id": "534504379",
+        "latitude": 52.2710879,
         "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/sprzedam-mieszkanie-2+pokojowe/1005345043790911002360709",
+        "longitude": 21.0547915,
+        "precise": false,
         "title": "Sprzedam mieszkanie 2-pokojowe "
     }
 ]

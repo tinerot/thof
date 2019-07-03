@@ -3,28 +3,40 @@
         "address": "Warszawa, Praga-Południe, Siennicka 2/4",
         "district": "Warszawa, Praga-Południe",
         "id": "530758124",
+        "latitude": 52.24415090000001,
         "link": "https://www.otodom.pl/oferta/bezposrednio-dwa-pokoje-grochow-warszawa-ID40aqo.html?",
+        "longitude": 21.0782959,
+        "precise": true,
         "title": "Bezpośrednio! Dwa pokoje, Grochów, Warszawa"
     },
     {
         "address": "Warszawa, Wola, Sowińskiego",
         "district": "Warszawa, Wola",
         "id": "540113820",
+        "latitude": 52.2267997,
         "link": "https://www.olx.pl/oferta/sprzedam-mieszkanie-3-pokoje-ul-sowinskiego-CID3-IDAyghe.html#b24cef3d9e",
+        "longitude": 20.9366619,
+        "precise": false,
         "title": "Sprzedam mieszkanie 3 pokoje ul. Sowińskiego"
     },
     {
         "address": "Warszawa, Praga-Południe, Grochów",
         "district": "Warszawa, Praga-Południe",
         "id": "540133841",
+        "latitude": 52.245209700000004,
         "link": "https://www.otodom.pl/oferta/gotowe-mieszkanie-przy-rondzie-wiatraczna-ID41k2A.html?",
+        "longitude": 21.089477799999997,
+        "precise": false,
         "title": "Gotowe mieszkanie przy rondzie wiatraczna"
     },
     {
         "address": "Warszawa, Wola, Mroczna 7",
         "district": "Warszawa, Wola",
         "id": "540260278",
+        "latitude": 52.2395463,
         "link": "https://www.olx.pl/oferta/atrakcyjne-mieszkanie-naprzeciwko-c-h-wola-park-przy-stacji-metra-CID3-IDAySns.html#343ed7b49d",
+        "longitude": 20.9338516,
+        "precise": true,
         "title": "Atrakcyjne mieszkanie naprzeciwko C H Wola Park - przy stacji Metra"
     },
     {
@@ -59,7 +71,10 @@
         "address": "Warszawa, Praga-Północ, ul. Łomżyńska",
         "district": "Warszawa, Praga-Północ",
         "id": "540459242",
+        "latitude": 52.260909,
         "link": "https://www.otodom.pl/oferta/sprzedam-47m2-3-pokoje-praga-polnoc-ul-lomzynska-ID41lUD.html?",
+        "longitude": 21.0566645,
+        "precise": false,
         "title": "Sprzedam 47m2 ,3 pokoje Praga Północ ul.Łomżyńska"
     }
 ]

@@ -3,7 +3,10 @@
         "address": "Targówek,Warszawa, Simona Bolivara",
         "district": "Targówek,Warszawa",
         "id": "540854982",
+        "latitude": 52.2900646,
         "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/mieszkanie-3-pokoje-bezposrednio-brodno-bolivara-tylko-gotowka/1005408549820910792324209",
+        "longitude": 21.0449713,
+        "precise": false,
         "title": "Mieszkanie 3 Pokoje Bezpośrednio Bródno Bolivara Tylko Gotówka"
     },
     {
@@ -24,21 +27,30 @@
         "address": "Kochanowskiego",
         "district": "Bielany,Warszawa",
         "id": "541271263",
+        "latitude": 51.3709019,
         "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/bielany/38m2-+-3-pokoje-ul-kochanowskiego-bielany/1005412712630912413577609",
+        "longitude": 19.3534869,
+        "precise": false,
         "title": "38m2 - 3 pokoje, ul.Kochanowskiego, Bielany"
     },
     {
         "address": "Praga Północ,Warszawa, Siedlecka",
         "district": "Praga Północ,Warszawa",
         "id": "541300867",
+        "latitude": 52.2592573,
         "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-polnoc/sprzedam-2+pokojowe-po-remoncie-praga-pln-w-warszawie/1005413008670910470587509",
+        "longitude": 21.0589853,
+        "precise": false,
         "title": "Sprzedam  2-pokojowe  po remoncie Praga Płn.  w  WARSZAWIE"
     },
     {
         "address": "Praga Południe,Warszawa, Wspólna Droga 7",
         "district": "Praga Południe,Warszawa",
         "id": "541416655",
+        "latitude": 52.2458061,
         "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/sprzedam-mieszkanie-bezposrednio/1005414166550911038065909",
+        "longitude": 21.0959654,
+        "precise": true,
         "title": "Sprzedam mieszkanie BEZPOŚREDNIO"
     },
     {

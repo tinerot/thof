@@ -3,7 +3,10 @@
         "address": "Warszawa, Mokotów, Sobieskiego",
         "district": "Warszawa, Mokotów",
         "id": "503863993",
+        "latitude": 52.1852939,
         "link": "https://www.olx.pl/oferta/mieszkanie-sadyba-mokotow-warszawa-CID3-IDy6a2B.html#343ed7b49d;promoted",
+        "longitude": 21.0521269,
+        "precise": false,
         "title": "Mieszkanie Sadyba Mokotów Warszawa"
     },
     {
@@ -31,21 +34,30 @@
         "address": "Warszawa, Targówek, Dalanowska",
         "district": "Warszawa, Targówek",
         "id": "542115180",
+        "latitude": 52.2766347,
         "link": "https://www.olx.pl/oferta/mieszkanie-2-pokojowe-47-03-m2-targowek-ul-dalanowska-CID3-IDAGEWe.html#b24cef3d9e",
+        "longitude": 21.0492875,
+        "precise": false,
         "title": "Mieszkanie 2 pokojowe 47,03 m2 Targówek ul. Dalanowska"
     },
     {
         "address": "Warszawa, Wola, ul. Juliusza Ordona",
         "district": "Warszawa, Wola",
         "id": "542130673",
+        "latitude": 52.225875399999985,
         "link": "https://www.otodom.pl/oferta/bliska-wola-2-pokoje-39m2-2019-400tys-ID41uaz.html?",
+        "longitude": 20.9538125,
+        "precise": false,
         "title": "Bliska Wola, 2 pokoje, 39m2, 2019, 400tys !!"
     },
     {
         "address": "Warszawa, Targówek, ul. Wyszogrodzka",
         "district": "Warszawa, Targówek",
         "id": "542145251",
+        "latitude": 52.289453099999996,
         "link": "https://www.otodom.pl/oferta/targowek-ul-wyszogrodzka-46m2-3pok-397tys-zl-ID41ufd.html?",
+        "longitude": 21.0357018,
+        "precise": false,
         "title": "Targówek- ul. Wyszogrodzka, 46m2, 3pok. 397tys.zł"
     },
     {
@@ -59,7 +71,10 @@
         "address": "Warszawa, Bielany, ul. Szegedyńska",
         "district": "Warszawa, Bielany",
         "id": "542279361",
+        "latitude": 52.2911564,
         "link": "https://www.otodom.pl/oferta/48-4m2-ciche-zielone-metro-bezposrednio-ID41uSm.html?",
+        "longitude": 20.943969499999998,
+        "precise": false,
         "title": "48,4m2, ciche, zielone, metro, bezpośrednio"
     },
     {
@@ -73,7 +88,10 @@
         "address": "Warszawa, Praga-Południe, ul. Majdańska",
         "district": "Warszawa, Praga-Południe",
         "id": "542318282",
+        "latitude": 52.2413073,
         "link": "https://www.otodom.pl/oferta/mieszkanie-2p-35m2-z-kw-luksusowe-rozkladowe-ID3zVAD.html?",
+        "longitude": 21.0903809,
+        "precise": false,
         "title": "Mieszkanie 2p 35m2 z KW, luksusowe rozkładowe"
     },
     {
@@ -87,14 +105,20 @@
         "address": "Warszawa, ul. Władysława Broniewskiego",
         "district": "Warszawa",
         "id": "542412217",
+        "latitude": 52.26869099999999,
         "link": "https://www.otodom.pl/oferta/dwupokojowe-41-5m2-w-warszawie-na-broniewskiego-ID41wH8.html?",
+        "longitude": 20.9595716,
+        "precise": false,
         "title": "Dwupokojowe 41,5m2 w Warszawie na Broniewskiego"
     },
     {
         "address": "Warszawa, Bielany, Marymoncka 151",
         "district": "Warszawa, Bielany",
         "id": "542480670",
+        "latitude": 52.2963471,
         "link": "https://www.otodom.pl/oferta/mieszkanie-na-bielanach-blisko-metra-39-m2-ID41wQs.html?",
+        "longitude": 20.9428597,
+        "precise": true,
         "title": "Mieszkanie na Bielanach, blisko metra, 39 m2"
     },
     {
@@ -108,14 +132,20 @@
         "address": "Warszawa, Bielany, Kochanowskiego",
         "district": "Warszawa, Bielany",
         "id": "542535831",
+        "latitude": 52.2694547,
         "link": "https://www.olx.pl/oferta/38m2-3-pokoje-ul-kochanowskiego-bielany-piaski-CID3-IDAIqlW.html#343ed7b49d",
+        "longitude": 20.9451469,
+        "precise": false,
         "title": "38m2 - 3 pokoje, ul.Kochanowskiego, Bielany, Piaski"
     },
     {
         "address": "Warszawa, Praga-Południe, ul. gen. Leopolda Okulickiego 11",
         "district": "Warszawa, Praga-Południe",
         "id": "542606283",
+        "latitude": 52.2288457,
         "link": "https://www.otodom.pl/oferta/bezposrednio-sprzedam-mieszkanie-goclaw-40m2-ID41v8A.html?",
+        "longitude": 21.0997988,
+        "precise": true,
         "title": "BEZPOŚREDNIO sprzedam mieszkanie Gocław 40m2"
     }
 ]

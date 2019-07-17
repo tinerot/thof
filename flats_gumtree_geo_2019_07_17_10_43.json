@@ -3,7 +3,10 @@
         "address": "Praga Północ,Warszawa, Siedlecka",
         "district": "Praga Północ,Warszawa",
         "id": "545262927",
+        "latitude": 52.259557300000004,
         "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-polnoc/sprzedam-2+pokojowe-po-remoncie-praga-pln-w-warszawie/1005452629270910470587509",
+        "longitude": 21.058485299999997,
+        "precise": false,
         "title": "Sprzedam  2-pokojowe  po remoncie Praga Płn.  w  WARSZAWIE"
     },
     {
@@ -24,7 +27,10 @@
         "address": "Targówek,Warszawa, Krasnobrodzka",
         "district": "Targówek,Warszawa",
         "id": "545651884",
+        "latitude": 52.3004355,
         "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/z-kw-bezposrednio-3-pokoje-46-m-po-generalnym-remoncie-nowe-targowek/1005456518840910464492009",
+        "longitude": 21.0415881,
+        "precise": false,
         "title": " z KW Bezpośrednio 3 pokoje 46 m Po generalnym remoncie NOWE Targówek"
     }
 ]

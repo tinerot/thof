@@ -28,13 +28,17 @@ class ComputerFinder:
 
     def get_pc_olx(self):
         self.flats = []
-        url = 'https://www.olx.pl/elektronika/komputery/komputery-stacjonarne/warszawa/?search%5Bfilter_float_price%3Afrom%5D=1099&search%5Bfilter_float_price%3Ato%5D=2300&search%5Bdist%5D=50'
+        url = 'https://www.olx.pl/elektronika/komputery/laptopy/warszawa/?search%5Bfilter_float_price%3Ato%5D=2500&search%5Bfilter_float_price%3Afrom%5D=1000&search%5Bdist%5D=50'
         html_page = self.safe_call(url)
         # get number of pages to search
-        pages = str(html_page.xpath('//div[@class="pager rel clr"]')[0].text_content()).strip()
-        number = re.findall(r'\d+', pages, re.DOTALL)[-1]
+        try:
+            pages = str(html_page.xpath('//div[@class="pager rel clr"]')[0].text_content()).strip()
+            number = re.findall(r'.+(\d)', pages, re.DOTALL)[0]
+        except IndexError:
+            number = 1
 
         for page in range(0, int(number)):
+            print('Page no {}'.format(page+1))
             url_page = url + '&page=' + str(page + 1)
             html_page = self.safe_call(url_page)
             offers = html_page.xpath('//table[@id="offers_table"]/tbody/tr/td[contains(@class,"offer")]')
@@ -52,8 +56,10 @@ class ComputerFinder:
                 a_elem = offer.xpath('.//a')[1]
                 item['link'] = a_elem.attrib['href']
                 item['title'] = str(a_elem.text_content()).strip()
+                if not ('16gb' in item['title'].lower() or '16 gb' in item['title'].lower() or '32 gb' in item['title'].lower()):
+                    continue
                 item['price'] = str(offer.xpath('.//p[@class="price"]')[0].text_content()).strip()
-                if 'apple' in item['title'].lower():
+                if 'apple' in item['title'].lower() or 'macbook' in item['title'].lower():
                     continue
                 print('{} {} {}'.format(item['price'], item['link'], item['title']))
                 self.process_olx(item)

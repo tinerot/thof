@@ -6,3 +6,4 @@ Docker/
 backup/
 run_flat_finder.sh
 run_flat_finder.ps1
+config.json

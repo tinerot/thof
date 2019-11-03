@@ -89,7 +89,11 @@ function loadScript() {
     var script = document.createElement('script');
     script.type = 'text/javascript';
     console.log(urlParams.get('key'));
-    script.src = 'https://maps.googleapis.com/maps/api/js?&key='+urlParams.get('key')+'&callback=run';
+    if(urlParams.get('key')){
+        script.src = 'https://maps.googleapis.com/maps/api/js?&key='+urlParams.get('key')+'&callback=run';
+    } else {
+        script.src = 'https://maps.googleapis.com/maps/api/js?&callback=run';
+    }
     document.body.appendChild(script);
 }
 

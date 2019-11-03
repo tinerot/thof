@@ -1,0 +1,931 @@
+[
+    {
+        "address": "Targówek, Warszawa, Bródno  Polska",
+        "district": "Targówek, Warszawa",
+        "id": "184901298",
+        "latitude": 52.2892301,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/sprzedam-4+pokojowe-mieszkanie-na-brodnie/1001849012980910662309609",
+        "longitude": 21.031564000000003,
+        "precise": false,
+        "title": "Sprzedam 4-pokojowe mieszkanie na Bródnie"
+    },
+    {
+        "address": "Wola, Warszawa, nowolipki",
+        "district": "Wola, Warszawa",
+        "id": "214958312",
+        "latitude": 52.245396899999996,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/wola/do-zamiany-nieruchomosc-rolna-z-domem-52km-od-warszawy/1002149583120910472851809",
+        "longitude": 20.982522799999998,
+        "precise": false,
+        "title": "DO ZAMIANY Nieruchomość rolna z domem 52km od Warszawy"
+    },
+    {
+        "address": "Mokotów, Warszawa, Ksawerówwitam",
+        "district": "Mokotów, Warszawa",
+        "id": "367379315",
+        "latitude": 52.1778431,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/ksawerow-65m2-polecam-okazja-dwie-nowe-lazienki/1003673793150911340317309",
+        "longitude": 21.0195338,
+        "precise": false,
+        "title": "Ksawerów 65m2 Polecam Okazja! dwie nowe łazienki "
+    },
+    {
+        "address": null,
+        "district": "Wola, Warszawa",
+        "id": "443061844",
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/wola/nowe-dwa-pokoje-na-woli/1004430618440910471940909",
+        "title": "Nowe Dwa pokoje na Woli"
+    },
+    {
+        "address": "Mokotów, Warszawa, Egejskiej ",
+        "district": "Mokotów, Warszawa",
+        "id": "472318783",
+        "latitude": 52.1789362,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/sprzedam-mieszkanie-2+pokojowe-o-pow-43-80-m-w-doskonalej-lokalizacji/1004723187830910920931509",
+        "longitude": 21.059300500000003,
+        "precise": false,
+        "title": "Sprzedam mieszkanie 2-pokojowe o pow. 43,80 m² w doskonałej lokalizacji"
+    },
+    {
+        "address": "Śródmieście, Warszawa,  Polska",
+        "district": "Śródmieście, Warszawa",
+        "id": "489519390",
+        "latitude": 52.2302756,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/srodmiescie/sprzedam-dom-caloroczny-w-gminie-stromiec/1004895193900911242306009",
+        "longitude": 21.0122287,
+        "precise": false,
+        "title": "Sprzedam dom całoroczny w gminie Stromiec"
+    },
+    {
+        "address": "Praga Południe, Warszawa, Beskidzkiej 26",
+        "district": "Praga Południe, Warszawa",
+        "id": "527143369",
+        "latitude": 52.24280109999999,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/odstapie-partycypacje-tbs-nowe-mieszkanie-80m2-z-2014-roku/1005271433690911443979609",
+        "longitude": 21.1170652,
+        "precise": true,
+        "title": "Odstąpię partycypację TBS, nowe mieszkanie 80m2 z 2014 roku"
+    },
+    {
+        "address": null,
+        "district": "Wola, Warszawa",
+        "id": "529980929",
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/wola/sloneczne-mieszkanie-w-poblizu-metra/1005299809290910749787109",
+        "title": "Sloneczne mieszkanie w poblizu metra"
+    },
+    {
+        "address": "Targówek, Warszawa, Krasnobrodzka   Polska",
+        "district": "Targówek, Warszawa",
+        "id": "532811886",
+        "latitude": 52.2998355,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/mieszkanie-60m2-3pokoje/1005328118860910521330709",
+        "longitude": 21.0415881,
+        "precise": false,
+        "title": "Mieszkanie 60m2 3pokoje"
+    },
+    {
+        "address": null,
+        "district": "Żoliborz, Warszawa",
+        "id": "536985588",
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/zoliborz/zamienie-mieszkanie-na-dom-w-okolicach-warszawy/1005369855880910666969009",
+        "title": "Zamienię mieszkanie na dom w okolicach Warszawy "
+    },
+    {
+        "address": "Bielany, Warszawa,  Rudnickiego",
+        "district": "Bielany, Warszawa",
+        "id": "559606548",
+        "latitude": 52.269049299999985,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/bielany/mieszkanie-2-pokojowe-tbs-+-warszawa-bielany/1005596065480910819528009",
+        "longitude": 20.9475723,
+        "precise": false,
+        "title": "Mieszkanie 2 pokojowe TBS - Warszawa Bielany"
+    },
+    {
+        "address": "Śródmieście, Warszawa, Bartoszka  ",
+        "district": "Śródmieście, Warszawa",
+        "id": "559687325",
+        "latitude": 52.195135,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/srodmiescie/2-pokoje-53m2-os-idzikowskiego/1005596873250910488692509",
+        "longitude": 21.052648299999998,
+        "precise": false,
+        "title": "2 pokoje 53m2 os.Idzikowskiego"
+    },
+    {
+        "address": null,
+        "district": "Praga Południe, Warszawa",
+        "id": "562100687",
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/sprzedam-bezposrednio-mieszkanie-w-zrewitalizowanej-kamienicy-na-grochowskiej/1005621006870911142437209",
+        "title": "Sprzedam bezpośrednio mieszkanie w zrewitalizowanej kamienicy na Grochowskiej"
+    },
+    {
+        "address": "Mokotów, Warszawa, Ursynowska   Polska",
+        "district": "Mokotów, Warszawa",
+        "id": "563395429",
+        "latitude": 52.1980395,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/sprzedam-dom-w-ksawerowie-starym/1005633954290911242306009",
+        "longitude": 21.0190435,
+        "precise": false,
+        "title": "Sprzedam dom w Ksawerowie Starym "
+    },
+    {
+        "address": "Wola, Warszawa, Grzybowska 85",
+        "district": "Wola, Warszawa",
+        "id": "565470117",
+        "latitude": 52.2326184,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/wola/grzybowska-85-+-mieszkania-do-sprzedania/1005654701170910645546909",
+        "longitude": 20.9794081,
+        "precise": true,
+        "title": "Grzybowska 85 - mieszkania do sprzedania"
+    },
+    {
+        "address": "Ursynów, Warszawa, Kazanów pow. zwoleński",
+        "district": "Ursynów, Warszawa",
+        "id": "567870002",
+        "latitude": 52.13875439999999,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/ursynow/sprzedam-dom-na-wsi-kolo-radomia/1005678700020910500734209",
+        "longitude": 21.030122900000002,
+        "precise": false,
+        "title": "Sprzedam dom na wsi koło Radomia"
+    },
+    {
+        "address": "Praga Południe, Warszawa, Grochowskiej ",
+        "district": "Praga Południe, Warszawa",
+        "id": "568075211",
+        "latitude": 52.2458097,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/sprzedam-3+pokojowe-mieszkanie-przy-grochowskiej/1005680752110911047548909",
+        "longitude": 21.0890778,
+        "precise": false,
+        "title": "Sprzedam 3-pokojowe mieszkanie przy Grochowskiej"
+    },
+    {
+        "address": null,
+        "district": "Praga Północ, Warszawa",
+        "id": "570236317",
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-polnoc/2-pokoje-w-systemie-tbs/1005702363170910481901809",
+        "title": "2 pokoje w systemie TBS "
+    },
+    {
+        "address": "Praga Południe, Warszawa, Międzynarodowa",
+        "district": "Praga Południe, Warszawa",
+        "id": "571364054",
+        "latitude": 52.23843369999999,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/sprzedam-nieruchomosc-48-m-kw-bez-posrednika-bez-obciazen-b-db-lokalizacja-3-pok-praga-poludnie/1005713640540910517326509",
+        "longitude": 21.0645066,
+        "precise": false,
+        "title": "Sprzedam nieruchomość 48 m.kw. BEZ POŚREDNIKA,BEZ OBCIĄŻEŃ. B.db. lokalizacja. 3 pok. Praga Południe"
+    },
+    {
+        "address": "Mokotów, Warszawa,  ul. Portofino 6",
+        "district": "Mokotów, Warszawa",
+        "id": "572102485",
+        "latitude": 52.1761298,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/bezposrednio-mieszkanie-2-pokoje-+-42m2-mokotow-stegny/1005721024850912449172109",
+        "longitude": 21.0597837,
+        "precise": true,
+        "title": "BEZPOŚREDNIO! Mieszkanie 2 pokoje - 42m2, Mokotów, STEGNY"
+    },
+    {
+        "address": "Mokotów, Warszawa, ul. Bartłomieja",
+        "district": "Mokotów, Warszawa",
+        "id": "574637374",
+        "latitude": 52.1685327,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/mieszkanie-na-sprzedaz-ul-bartlomieja-+-2-pokoje-+-46-70-m2-+-bezposrednio/1005746373740910736970009",
+        "longitude": 21.007891299999997,
+        "precise": false,
+        "title": "Mieszkanie na sprzedaż ul. Bartłomieja - 2 pokoje - 46,70 m2 - bezpośrednio"
+    },
+    {
+        "address": "Praga Północ, Warszawa, Wileńska",
+        "district": "Praga Północ, Warszawa",
+        "id": "577290897",
+        "latitude": 52.2587206,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-polnoc/sprzedam-bezposrednio-mieszkanie-na-starej-pradze-+-ulica-wilenska/1005772908970911142437209",
+        "longitude": 21.0402514,
+        "precise": false,
+        "title": "Sprzedam bezpośrednio mieszkanie na Starej Pradze - ulica Wileńska"
+    },
+    {
+        "address": "Śródmieście, Warszawa, WARSZAWA",
+        "district": "Śródmieście, Warszawa",
+        "id": "583161686",
+        "latitude": 52.2301756,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/srodmiescie/nowy-dom-drewniany-70-m2-+-na-zgloszenie-tylko-39500-zl/1005831616860910526757509",
+        "longitude": 21.0122287,
+        "precise": false,
+        "title": " NOWY DOM DREWNIANY ( 70 m2 ) - NA ZGŁOSZENIE tylko 39500 zł "
+    },
+    {
+        "address": "Śródmieście, Warszawa, WARSZAWA",
+        "district": "Śródmieście, Warszawa",
+        "id": "583193120",
+        "latitude": 52.2305756,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/srodmiescie/dom-drewniany-+-nowy-63-m2-+-na-zgloszenie-tylko-39500-zl/1005831931200910526757509",
+        "longitude": 21.0129287,
+        "precise": false,
+        "title": " DOM DREWNIANY - NOWY ( 63 m2 ) - NA ZGŁOSZENIE tylko 39500 zł "
+    },
+    {
+        "address": "Bielany, Warszawa, -",
+        "district": "Bielany, Warszawa",
+        "id": "590499953",
+        "latitude": 52.2939234,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/bielany/bielany-mieszkanie-2-pokoje-pow-53m2-ul-boguslawskiego/1005904999530911384256709",
+        "longitude": 20.929264,
+        "precise": false,
+        "title": "Bielany, mieszkanie 2 pokoje , pow. 53m2, ul. Bogusławskiego"
+    },
+    {
+        "address": "Śródmieście, Warszawa, Bieszczady",
+        "district": "Śródmieście, Warszawa",
+        "id": "590733585",
+        "latitude": 52.23324619999999,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/srodmiescie/bieszczady-domek-z-dzialka/1005907335850910658170909",
+        "longitude": 21.022349900000002,
+        "precise": false,
+        "title": "Bieszczady,domek z działką"
+    },
+    {
+        "address": "Śródmieście, Warszawa, Bieszczady",
+        "district": "Śródmieście, Warszawa",
+        "id": "590751064",
+        "latitude": 52.233346199999986,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/srodmiescie/bieszczady-domek-z-dzialka/1005907510640910658170909",
+        "longitude": 21.0218499,
+        "precise": false,
+        "title": "Bieszczady,domek z działką"
+    },
+    {
+        "address": "Praga Południe, Warszawa, Meissnera ",
+        "district": "Praga Południe, Warszawa",
+        "id": "591172954",
+        "latitude": 52.2234482,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/bezposrednio+-goclaw-2-pokojowe-42-m2-1-pietro/1005911729540912466243809",
+        "longitude": 21.087307499999998,
+        "precise": false,
+        "title": "Bezpośrednio- Gocław, 2 pokojowe, 42 m2, 1 piętro"
+    },
+    {
+        "address": "Praga Północ, Warszawa, Zachariasza 1",
+        "district": "Praga Północ, Warszawa",
+        "id": "591512845",
+        "latitude": 52.2613308,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-polnoc/mieszkanie-kamienica-praga-polnoc-44-m2-zachariasza/1005915128450910476923109",
+        "longitude": 21.058426,
+        "precise": true,
+        "title": " Mieszkanie Kamienica Praga Północ 44 m2 Zachariasza"
+    },
+    {
+        "address": "Bielany, Warszawa,  Rudnickiego",
+        "district": "Bielany, Warszawa",
+        "id": "592308447",
+        "latitude": 52.268649299999986,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/bielany/mieszkanie-partycypacja-tbs-na-bielanach-ul-rudnickego/1005923084470912468314809",
+        "longitude": 20.9481723,
+        "precise": false,
+        "title": "Mieszkanie PARTYCYPACJA TBS na Bielanach ul Rudnickego"
+    },
+    {
+        "address": "Mokotów, Warszawa, Domaniewska ",
+        "district": "Mokotów, Warszawa",
+        "id": "592764514",
+        "latitude": 52.1833264,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/sprzedam-partycypacje-tbs-mokotow-ul-domaniewska-mieszkanie-45-m2/1005927645140912468740009",
+        "longitude": 21.007374,
+        "precise": false,
+        "title": "Sprzedam PARTYCYPACJĘ TBS Mokotów ul Domaniewska, mieszkanie 45 m2 "
+    },
+    {
+        "address": "Praga Południe, Warszawa, Kijowska 1 / 3 piętro",
+        "district": "Praga Południe, Warszawa",
+        "id": "592988807",
+        "latitude": 52.2502149,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/bezposrednio+-praga-poludnie-goclaw-2-pokojowe-42-m2-1-pietro/1005929888070912466243809",
+        "longitude": 21.0430638,
+        "precise": true,
+        "title": "Bezpośrednio- Praga Południe, Gocław, 2 pokojowe, 42 m2, 1 piętro"
+    },
+    {
+        "address": null,
+        "district": "Praga Południe, Warszawa",
+        "id": "592995616",
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/dom-z-dzialka-pod-nasielskiem-55-km-od-warszawy/1005929956160911544953609",
+        "title": "Dom z działką pod Nasielskiem; 55 km od Warszawy"
+    },
+    {
+        "address": "Wola, Warszawa, Mroczna 7",
+        "district": "Wola, Warszawa",
+        "id": "594228884",
+        "latitude": 52.2395463,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/wola/atrakcyjne-mieszkanie-naprzeciwko-centrum-handlowego-wola-park-i-metra/1005942288840910986758509",
+        "longitude": 20.9338516,
+        "precise": true,
+        "title": "Atrakcyjne mieszkanie naprzeciwko Centrum Handlowego Wola Park i Metra"
+    },
+    {
+        "address": null,
+        "district": "Targówek, Warszawa",
+        "id": "594428389",
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/sprzedam-mieszkanie-na-zaciszu/1005944283890912469812709",
+        "title": "Sprzedam mieszkanie na Zaciszu"
+    },
+    {
+        "address": "Praga Południe, Warszawa, Grochowska",
+        "district": "Praga Południe, Warszawa",
+        "id": "594750345",
+        "latitude": 52.2451097,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/tbs-+-odstapie-partycypacje-w-tbs-praga/1005947503450912469798509",
+        "longitude": 21.089377799999998,
+        "precise": false,
+        "title": "TBS - odstąpie partycypacje w TBS Praga"
+    },
+    {
+        "address": "Praga Południe, Warszawa, WARSZAWA UL. GROCHOWSKA",
+        "district": "Praga Południe, Warszawa",
+        "id": "594857879",
+        "latitude": 52.2456097,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/sprzedam-mieszkanie-3-pokojowe-49-20-m2-w-sercu-pragi-okazja-389-000-zl/1005948578790912469848809",
+        "longitude": 21.0897778,
+        "precise": false,
+        "title": "SPRZEDAM MIESZKANIE 3 POKOJOWE 49,20 M2  W SERCU PRAGI OKAZJA 389.000 zł."
+    },
+    {
+        "address": "Targówek, Warszawa,  ul. Rembielińska",
+        "district": "Targówek, Warszawa",
+        "id": "595010453",
+        "latitude": 52.2902976,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/mieszkanie-dwupokojowe-42m2-targowek-ul-rembielinska/1005950104530910576559309",
+        "longitude": 21.0298266,
+        "precise": false,
+        "title": "Mieszkanie dwupokojowe, 42m2 Targówek ul. Rembielińska"
+    },
+    {
+        "address": "Mokotów, Warszawa, Wałbrzyskiej",
+        "district": "Mokotów, Warszawa",
+        "id": "595017685",
+        "latitude": 52.1741489,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/mieszkanie-2-pokoje-ul-kaczmarskiego-mokotow-sluzew-agencjom-dziekuje/1005950176850912470283709",
+        "longitude": 21.0299498,
+        "precise": false,
+        "title": "Mieszkanie 2 pokoje, ul. Kaczmarskiego, Mokotów, Służew. Agencjom dziękuje!"
+    },
+    {
+        "address": "Mokotów, Warszawa, Wałbrzyskiej",
+        "district": "Mokotów, Warszawa",
+        "id": "595061717",
+        "latitude": 52.1737489,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/mieszkanie-2-pokoje-ul-kaczmarskiego-mokotow-sluzew-agencjom-dziekuje/1005950617170912470283709",
+        "longitude": 21.0299498,
+        "precise": false,
+        "title": "Mieszkanie 2 pokoje, ul. Kaczmarskiego, Mokotów, Służew. Agencjom dziękuje!"
+    },
+    {
+        "address": "Praga Południe, Warszawa, Meissnera ",
+        "district": "Praga Południe, Warszawa",
+        "id": "595445390",
+        "latitude": 52.2229482,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/bezposrednio+-praga-poludnie-goclaw-2-pokojowe-42-m2-1-pietro/1005954453900912466243809",
+        "longitude": 21.0871075,
+        "precise": false,
+        "title": "Bezpośrednio- Praga Południe, Gocław, 2 pokojowe, 42 m2, 1 piętro"
+    },
+    {
+        "address": "Mokotów, Warszawa, Rynia ul Główna ",
+        "district": "Mokotów, Warszawa",
+        "id": "595871094",
+        "latitude": 52.471049900000004,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/rynia-domek-i-dzialka-50m-od-plazy/1005958710940910504742609",
+        "longitude": 21.06903,
+        "precise": false,
+        "title": "Rynia domek i działka 50m od plaży "
+    },
+    {
+        "address": null,
+        "district": "Bielany, Warszawa",
+        "id": "596256157",
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/bielany/bielany-3-pokoje-47-m2-broniewskiego-metro/1005962561570911012972509",
+        "title": "Bielany 3 pokoje 47 m2 Broniewskiego Metro"
+    },
+    {
+        "address": "Praga Południe, Warszawa, WARSZAWA UL. GROCHOWSKA",
+        "district": "Praga Południe, Warszawa",
+        "id": "596308291",
+        "latitude": 52.245209700000004,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/sprzedam-mieszkanie-3-pokojowe-49-20-m2-w-sercu-pragi-okazja-389-000-zl/1005963082910912469848809",
+        "longitude": 21.0887778,
+        "precise": false,
+        "title": "SPRZEDAM MIESZKANIE 3 POKOJOWE 49,20 M2  W SERCU PRAGI OKAZJA 389.000 zł."
+    },
+    {
+        "address": "Bielany, Warszawa, Broniewskiego",
+        "district": "Bielany, Warszawa",
+        "id": "596639423",
+        "latitude": 52.26839099999999,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/bielany/bezposrednio-mieszkanie-2-pok-42-m-warszawa-bielany-piaski/1005966394230912471169909",
+        "longitude": 20.9587716,
+        "precise": false,
+        "title": "BEZPOŚREDNIO mieszkanie 2 pok. 42 m Warszawa, Bielany, Piaski"
+    },
+    {
+        "address": null,
+        "district": "Ursynów, Warszawa",
+        "id": "596708968",
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/ursynow/bezposrednio-sprzedam-3-pokoje-z-ogrodkiem/1005967089680910669086309",
+        "title": "Bezpośrednio sprzedam 3 pokoje z ogródkiem"
+    },
+    {
+        "address": "Praga Południe, Warszawa, WARSZAWA UL. GROCHOWSKA",
+        "district": "Praga Południe, Warszawa",
+        "id": "596779760",
+        "latitude": 52.2449097,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/bezposrednio-sprzedam-mieszkanie-3-pokojowe-49-20-m2-w-sercu-pragi-okazja-375-000-zl/1005967797600912469848809",
+        "longitude": 21.089177799999998,
+        "precise": false,
+        "title": "BEZPOŚREDNIO SPRZEDAM MIESZKANIE 3 POKOJOWE 49,20 M2  W SERCU PRAGI OKAZJA 375.000 zł."
+    },
+    {
+        "address": "Praga Południe, Warszawa, Meissnera ",
+        "district": "Praga Południe, Warszawa",
+        "id": "597480574",
+        "latitude": 52.2230482,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/bezposrednio+-goclaw-2-pokojowe-42-m2-1-pietro/1005974805740912466243809",
+        "longitude": 21.0876075,
+        "precise": false,
+        "title": "Bezpośrednio- Gocław, 2 pokojowe, 42 m2, 1 piętro"
+    },
+    {
+        "address": "Targówek, Warszawa, Zamiejska 15",
+        "district": "Targówek, Warszawa",
+        "id": "598126916",
+        "latitude": 52.2759775,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/mieszkanie-na-sprzedaz-warszawa-targowek/1005981269160911000662709",
+        "longitude": 21.0577771,
+        "precise": true,
+        "title": "Mieszkanie na sprzedaż, Warszawa, Targówek!"
+    },
+    {
+        "address": "Bielany, Warszawa,   ul.Kwitnaca 9 m 82",
+        "district": "Bielany, Warszawa",
+        "id": "598384054",
+        "latitude": 52.27575599999999,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/bielany/sprzedaz-mieszkania/1005983840540910492750109",
+        "longitude": 20.9178889,
+        "precise": true,
+        "title": "sprzedaz mieszkania "
+    },
+    {
+        "address": "Bielany, Warszawa,   ul.Kwitnaca 9 m 82",
+        "district": "Bielany, Warszawa",
+        "id": "598414501",
+        "latitude": 52.27575599999999,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/bielany/sprzedaz-mieszkania/1005984145010910492750109",
+        "longitude": 20.9178889,
+        "precise": true,
+        "title": "sprzedaż mieszkania"
+    },
+    {
+        "address": "Mokotów, Warszawa, Zwierzyniecka 17  ",
+        "district": "Mokotów, Warszawa",
+        "id": "599411608",
+        "latitude": 52.2111828,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/sprzedam-mieszkanie-3+pok-49-7m2-zainst-perlatory-+-nizsze-rachunki-za-wode-inter-vectra-cesja/1005994116080910622068409",
+        "longitude": 21.0487329,
+        "precise": true,
+        "title": "Sprzedam mieszkanie 3-pok. 49.7m2. Zainst. perlatory - niższe rachunki za wodę. Inter. Vectra cesja"
+    },
+    {
+        "address": "Targówek, Warszawa, Rembielińskiej",
+        "district": "Targówek, Warszawa",
+        "id": "599728076",
+        "latitude": 52.2904976,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/okazja-3-oddzielne-pokoje-ul-rembielinska/1005997280760910549593409",
+        "longitude": 21.0302266,
+        "precise": false,
+        "title": "OKAZJA, 3 oddzielne pokoje, ul. Rembielińska  "
+    },
+    {
+        "address": "Targówek, Warszawa, Rembielińskiej",
+        "district": "Targówek, Warszawa",
+        "id": "599742555",
+        "latitude": 52.2906976,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/okazja-3-oddzielne-pokoje-ul-rembielinska/1005997425550910549593409",
+        "longitude": 21.0297266,
+        "precise": false,
+        "title": "OKAZJA, 3 oddzielne pokoje, ul. Rembielińska  "
+    },
+    {
+        "address": "Praga Północ, Warszawa,  Wileńska 37/39",
+        "district": "Praga Północ, Warszawa",
+        "id": "599965189",
+        "latitude": 52.2588118,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-polnoc/bezposrednio-2-pokoje-warszawa-wilenska-37-39/1005999651890910507006209",
+        "longitude": 21.0409764,
+        "precise": true,
+        "title": "bezpośrednio, 2 pokoje, Warszawa, Wileńska 37/39"
+    },
+    {
+        "address": "Mokotów, Warszawa, Powsińskiej",
+        "district": "Mokotów, Warszawa",
+        "id": "600081852",
+        "latitude": 52.1864735,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/na-sprzedaz-3-pokoje-sadyba-ul-powsinska/1006000818520912473294509",
+        "longitude": 21.065558300000003,
+        "precise": false,
+        "title": "Na sprzedaż 3 pokoje Sadyba ul.Powsińska"
+    },
+    {
+        "address": null,
+        "district": "Praga Południe, Warszawa",
+        "id": "600997029",
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/grochow-46-m2-3-pokoje-z-kuchnia-389000-zl/1006009970290910621397409",
+        "title": "Grochów (46 m2) 3 pokoje z kuchnią 389000 zł"
+    },
+    {
+        "address": "Targówek, Warszawa, Wyszogrodzka 5",
+        "district": "Targówek, Warszawa",
+        "id": "601678952",
+        "latitude": 52.28989,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/mieszkanie-dwupokojowe-53-mkw-przy-parku-brodnowskim-bezposrednio/1006016789520912432261709",
+        "longitude": 21.0326329,
+        "precise": true,
+        "title": "Mieszkanie dwupokojowe, 53 mkw, przy Parku Bródnowskim, BEZPOŚREDNIO "
+    },
+    {
+        "address": "Praga Południe, Warszawa, Kordeckiego 47",
+        "district": "Praga Południe, Warszawa",
+        "id": "602112268",
+        "latitude": 52.2437032,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/spszedam-mieszkanie-pszy-placu-szembeka/1006021122680912473780309",
+        "longitude": 21.1001306,
+        "precise": true,
+        "title": "  Spszedam mieszkanie pszy placu Szembeka"
+    },
+    {
+        "address": "Mokotów, Warszawa, Limanowskiego",
+        "district": "Mokotów, Warszawa",
+        "id": "602289895",
+        "latitude": 52.189967999999986,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/sadyba-48-m2-3-2-pokoje/1006022898950910467484909",
+        "longitude": 21.0569696,
+        "precise": false,
+        "title": "Sadyba, 48 m2, 3/2 pokoje"
+    },
+    {
+        "address": "Bielany, Warszawa, Zachodnia 15",
+        "district": "Bielany, Warszawa",
+        "id": "602921309",
+        "latitude": 52.2933234,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/bielany/ladne-do-wprowadzenia-2+pokojowe-na-ogrodzonym-osiedlu/1006029213090910561406109",
+        "longitude": 20.928664,
+        "precise": true,
+        "title": "ŁADNE DO WPROWADZENIA 2-POKOJOWE NA OGRODZONYM OSIEDLU."
+    },
+    {
+        "address": "Mokotów, Warszawa, Chełmska ",
+        "district": "Mokotów, Warszawa",
+        "id": "603455811",
+        "latitude": 52.202612699999996,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/mieszkanie-na-mokotowie-ul-chelmska/1006034558110910514494709",
+        "longitude": 21.0436313,
+        "precise": false,
+        "title": "Mieszkanie na Mokotowie ul. Chełmska"
+    },
+    {
+        "address": "Praga Południe, Warszawa, Majdańskiej",
+        "district": "Praga Południe, Warszawa",
+        "id": "604025784",
+        "latitude": 52.242207300000004,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/48m2-2-pokoje-z-oddzielna-kuchnia-pietro-2-4-praga-poludnie-grochow-okolice-wiatracznej/1006040257840911247882809",
+        "longitude": 21.0899809,
+        "precise": false,
+        "title": "48m2, 2 pokoje z oddzielną kuchnią, piętro 2/4, Praga Południe, grochów, okolice wiatracznej"
+    },
+    {
+        "address": "Śródmieście, Warszawa, Broniewskiego 11",
+        "district": "Śródmieście, Warszawa",
+        "id": "604247325",
+        "latitude": 52.2651918,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/srodmiescie/dom-pietrowy-w-lidzbarku-welskim/1006042473250910667769009",
+        "longitude": 20.9669358,
+        "precise": true,
+        "title": "Dom piętrowy w Lidzbarku Welskim"
+    },
+    {
+        "address": "Gotarda",
+        "district": "Mokotów, Warszawa",
+        "id": "605966052",
+        "latitude": 52.1710907,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/sprzedam-mieszkanie-na-ul-gotarda/1006059660520911467801109",
+        "longitude": 21.0025171,
+        "precise": false,
+        "title": "Sprzedam mieszkanie na ul. Gotarda"
+    },
+    {
+        "address": "Mokotów, Warszawa, Bartycka",
+        "district": "Mokotów, Warszawa",
+        "id": "606454489",
+        "latitude": 52.2130045,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/sprzedam-mieszkanie-bez-posrednikow/1006064544890910760926909",
+        "longitude": 21.0612251,
+        "precise": false,
+        "title": "Sprzedam mieszkanie bez pośredników"
+    },
+    {
+        "address": "Praga Południe, Warszawa, Szaserów 117a",
+        "district": "Praga Południe, Warszawa",
+        "id": "606492937",
+        "latitude": 52.248397,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/pilne-3-4-pok-48m2-rondo-wiatraczna/1006064929370910661193109",
+        "longitude": 21.0942219,
+        "precise": true,
+        "title": "Pilne 3/4 pok. 48m2 Rondo Wiatraczna"
+    },
+    {
+        "address": "Praga Południe, Warszawa, Meissnera ",
+        "district": "Praga Południe, Warszawa",
+        "id": "606719113",
+        "latitude": 52.2232482,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/bezposrednio+-goclaw-2-pokojowe-42-m2-1-pietro-do-remontu-okazja/1006067191130912466243809",
+        "longitude": 21.0869075,
+        "precise": false,
+        "title": "Bezpośrednio- Gocław, 2 pokojowe, 42 m2, 1 piętro, do remontu, Okazja!"
+    },
+    {
+        "address": "Targówek, Warszawa, warszawa krasnobrodzka",
+        "district": "Targówek, Warszawa",
+        "id": "608447360",
+        "latitude": 52.3003355,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/2-pokojowe-sprzedam-krasnobrodzka-warszawa/1006084473600912477483309",
+        "longitude": 21.041788099999998,
+        "precise": false,
+        "title": "2 pokojowe sprzedam  krasnobrodzka warszawa"
+    },
+    {
+        "address": "Śródmieście, Warszawa, Włochy Trentino Marilleva 1400",
+        "district": "Śródmieście, Warszawa",
+        "id": "610800302",
+        "latitude": 52.2296756,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/srodmiescie/apartament-48m-na-narty-2-pokoje-max-7-os-trentino-wlochy-wielkanoc-2-tygodnie/1006108003020910479639809",
+        "longitude": 21.0122287,
+        "precise": true,
+        "title": "Apartament 48m na narty, 2 pokoje, max 7 os., Trentino, Włochy, Wielkanoc, 2 tygodnie"
+    },
+    {
+        "address": "Praga Południe, Warszawa, Praga-Południe  Polska",
+        "district": "Praga Południe, Warszawa",
+        "id": "612262674",
+        "latitude": 52.242280799999996,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/mieszkanie-53-m2/1006122626740911868473709",
+        "longitude": 21.0850602,
+        "precise": false,
+        "title": "Mieszkanie 53 m2"
+    },
+    {
+        "address": null,
+        "district": "Targówek, Warszawa",
+        "id": "612367617",
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/p-wysockiego-+-sprzedam-3-pokojowe/1006123676170911099030509",
+        "title": "P. WYSOCKIEGO - SPRZEDAM 3 POKOJOWE"
+    },
+    {
+        "address": null,
+        "district": "Mokotów, Warszawa",
+        "id": "612969886",
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/dom-100m2-w-cenie-mieszkania-pod-warszawa/1006129698860912081117209",
+        "title": "Dom 100m2 w cenie mieszkania pod Warszawą"
+    },
+    {
+        "address": null,
+        "district": "Śródmieście, Warszawa",
+        "id": "612993793",
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/srodmiescie/alterantywa-mieszkania+dom-100m2-pod-warszawa/1006129937930912081117209",
+        "title": "Alterantywa mieszkania-dom 100m2 pod Warszawą"
+    },
+    {
+        "address": null,
+        "district": "Bielany, Warszawa",
+        "id": "613803186",
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/bielany/dom-w-cenie-mieszkania-pod-warszawa/1006138031860912081117209",
+        "title": "Dom w cenie mieszkania pod Warszawą"
+    },
+    {
+        "address": null,
+        "district": "Mokotów, Warszawa",
+        "id": "613838053",
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/alternatywa-mieszkania+dom-pod-warszawa/1006138380530912081117209",
+        "title": "Alternatywa mieszkania-dom pod Warszawą"
+    },
+    {
+        "address": "Bolesławicka",
+        "district": "Targówek, Warszawa",
+        "id": "614079260",
+        "latitude": 52.287043299999986,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/sprzedam-52-8-m2-3+pok-ul-boleslawicka/1006140792600911453012209",
+        "longitude": 21.029321,
+        "precise": false,
+        "title": "Sprzedam 52,8 m2, 3-pok., ul. Bolesławicka"
+    },
+    {
+        "address": "Praga Południe, Warszawa, Łukowskiej",
+        "district": "Praga Południe, Warszawa",
+        "id": "614469576",
+        "latitude": 52.2383175,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/mieszkanie-do-remontu/1006144695760912480603909",
+        "longitude": 21.1030284,
+        "precise": false,
+        "title": "Mieszkanie do remontu"
+    },
+    {
+        "address": "Targówek, Warszawa,  ul. Tokarza 5",
+        "district": "Targówek, Warszawa",
+        "id": "614903552",
+        "latitude": 52.2977546,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/sprzedaz-wynajem-zamiana-m4-3-pokoje-55-m2-warszawa-targowek-brodno-tokarza-5-dostepne-od-xi-19/1006149035520910499837009",
+        "longitude": 21.0480675,
+        "precise": true,
+        "title": "Sprzedaż wynajem zamiana M4 3 pokoje 55 M2 Warszawa Targówek Bródno Tokarza 5 dostępne od XI'19  "
+    },
+    {
+        "address": "Wola, Warszawa, Okopowa 16 ",
+        "district": "Wola, Warszawa",
+        "id": "614919350",
+        "latitude": 52.2393351,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/wola/3-pokoje-na-nowolipkach-do-remontu-bezposrednio/1006149193500910617948709",
+        "longitude": 20.9789199,
+        "precise": true,
+        "title": "3 pokoje na Nowolipkach do Remontu! BEZPOŚREDNIO!"
+    },
+    {
+        "address": null,
+        "district": "Praga Południe, Warszawa",
+        "id": "614970347",
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/dom-jednorodzinny-na-grochowie/1006149703470912448117209",
+        "title": "Dom jednorodzinny na Grochowie"
+    },
+    {
+        "address": "Targówek, Warszawa, Oliwska",
+        "district": "Targówek, Warszawa",
+        "id": "616066314",
+        "latitude": 52.2814931,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/bezposrednio-mieszkanie-targowek/1006160663140912404225109",
+        "longitude": 21.0229191,
+        "precise": false,
+        "title": "Bezpośrednio mieszkanie Targówek"
+    },
+    {
+        "address": null,
+        "district": "Śródmieście, Warszawa",
+        "id": "616161282",
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/srodmiescie/sprzedam-dom-caloroczny-w-ksawerowie-starym-gmina-stromiec/1006161612820911242306009",
+        "title": "Sprzedam dom całoroczny w Ksawerowie Starym gmina Stromiec"
+    },
+    {
+        "address": "Mokotów, Warszawa, ul. Bartłomieja 12",
+        "district": "Mokotów, Warszawa",
+        "id": "617141012",
+        "latitude": 52.16946979999999,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/mokotow/3+pokojowe-mieszkanie-na-mokotowie/1006171410120912482180209",
+        "longitude": 21.0085563,
+        "precise": true,
+        "title": "3-pokojowe mieszkanie na Mokotowie"
+    },
+    {
+        "address": "Bielany, Warszawa,  Starej Baśni ",
+        "district": "Bielany, Warszawa",
+        "id": "617156352",
+        "latitude": 52.2744402,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/bielany/bielany-2-pokojowe-46m-rozkladowe-balkon-w-dobrym-punkcie-niski-czynsz/1006171563520911376482709",
+        "longitude": 20.9426354,
+        "precise": false,
+        "title": "Bielany 2 pokojowe 46m rozkładowe balkon w dobrym punkcie niski czynsz"
+    },
+    {
+        "address": "Bielany, Warszawa, ul. Nerudy",
+        "district": "Bielany, Warszawa",
+        "id": "617223117",
+        "latitude": 52.2774664,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/bielany/bezposrednio-3-pok-54m2-warszawa-bielany/1006172231170910656464409",
+        "longitude": 20.924935299999998,
+        "precise": false,
+        "title": "BEZPOŚREDNIO 3 pok, 54m2, Warszawa Bielany"
+    },
+    {
+        "address": "Praga Południe, Warszawa, Ostrobramska 75",
+        "district": "Praga Południe, Warszawa",
+        "id": "617305792",
+        "latitude": 52.2315349,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/2-pok-44m2-od-skanska-przy-ch-atrium-promenada-juz-oddanie/1006173057920911458472709",
+        "longitude": 21.1090853,
+        "precise": true,
+        "title": "2 pok 44m2 od SKANSKA, przy CH ATRIUM PROMENADA. Juz oddanie!"
+    },
+    {
+        "address": "Śródmieście, Warszawa, Okopowa 16 ",
+        "district": "Śródmieście, Warszawa",
+        "id": "617482073",
+        "latitude": 52.2393351,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/srodmiescie/3-pokoje-na-nowolipkach-do-remontu-bezposrednio/1006174820730910478014609",
+        "longitude": 20.9789199,
+        "precise": true,
+        "title": "3 pokoje na Nowolipkach do Remontu! BEZPOŚREDNIO!"
+    },
+    {
+        "address": "Praga Południe, Warszawa, Meissnera ",
+        "district": "Praga Południe, Warszawa",
+        "id": "617482801",
+        "latitude": 52.2230482,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/bezposrednio+-goclaw-2-pokojowe-42-m2-1-pietro-do-remontu-okazja/1006174828010912466243809",
+        "longitude": 21.0869075,
+        "precise": false,
+        "title": "Bezpośrednio- Gocław, 2 pokojowe, 42 m2, 1 piętro, do remontu, Okazja!"
+    },
+    {
+        "address": "Bielany, Warszawa, Broniewskiego 91",
+        "district": "Bielany, Warszawa",
+        "id": "619200357",
+        "latitude": 52.27100739999999,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/bielany/meszkanie-42-m-warszawa-bielany-broniewskiego-608-361-819-dzwonic-po-16/1006192003570912483385809",
+        "longitude": 20.9417834,
+        "precise": true,
+        "title": "MESZKANIE 42 M WARSZAWA BIELANY BRONIEWSKIEGO 608 361 819  DZWONIĆ PO 16"
+    },
+    {
+        "address": "Targówek, Warszawa, Wyszogrodzkiej",
+        "district": "Targówek, Warszawa",
+        "id": "619280716",
+        "latitude": 52.2889531,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/sprzedam-bezposrednio-3-pokoje-na-targowku-ul-wyszogrodzka/1006192807160911477800109",
+        "longitude": 21.0356018,
+        "precise": false,
+        "title": "Sprzedam bezpośrednio 3 pokoje na Targówku, ul.Wyszogrodzka"
+    },
+    {
+        "address": "Praga Południe, Warszawa, Meissnera ",
+        "district": "Praga Południe, Warszawa",
+        "id": "619444424",
+        "latitude": 52.2232482,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/bezposrednio+-goclaw-2-pokojowe-42-m2-1-pietro-do-remontu/1006194444240912466243809",
+        "longitude": 21.0878075,
+        "precise": false,
+        "title": "Bezpośrednio- Gocław, 2 pokojowe, 42 m2, 1 piętro, do remontu"
+    },
+    {
+        "address": "Praga Południe, Warszawa, Meissnera ",
+        "district": "Praga Południe, Warszawa",
+        "id": "620336742",
+        "latitude": 52.2236482,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/bezposrednio+-goclaw-2-pokojowe-42-m2-1-pietro-do-remontu/1006203367420912466243809",
+        "longitude": 21.0871075,
+        "precise": false,
+        "title": "Bezpośrednio- Gocław, 2 pokojowe, 42 m2, 1 piętro, do remontu"
+    },
+    {
+        "address": "Praga Południe, Warszawa, Słowackiego",
+        "district": "Praga Południe, Warszawa",
+        "id": "620702784",
+        "latitude": 52.269928599999986,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/radzymin-+sypialnia-warszawy-ul-slowackiego-2+pokojowe-40-m-1-pietro-+-bezposrednio/1006207027840911386538909",
+        "longitude": 20.9820745,
+        "precise": false,
+        "title": "Radzymin -Sypialnia Warszawy, ul.Słowackiego, 2-pokojowe • 40 m² • 1 piętro - BEZPOŚREDNIO"
+    },
+    {
+        "address": "Praga Południe, Warszawa, Słowackiego",
+        "district": "Praga Południe, Warszawa",
+        "id": "620765428",
+        "latitude": 52.27002859999999,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/praga-poludnie/radzymin-+sypialnia-warszawy-ul-slowackiego-2+pokojowe-40-m-1-pietro-+-bezposrednio/1006207654280911386538909",
+        "longitude": 20.9824745,
+        "precise": false,
+        "title": "Radzymin -Sypialnia Warszawy, ul.Słowackiego, 2-pokojowe • 40 m² • 1 piętro - BEZPOŚREDNIO"
+    },
+    {
+        "address": "Targówek, Warszawa, Słowackiego",
+        "district": "Targówek, Warszawa",
+        "id": "620765820",
+        "latitude": 52.2719212,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/radzymin-+sypialnia-warszawy-ul-slowackiego-2+pokojowe-40-m-1-pietro-+-bezposrednio/1006207658200911305960609",
+        "longitude": 20.9746958,
+        "precise": false,
+        "title": "Radzymin -Sypialnia Warszawy, ul.Słowackiego, 2-pokojowe • 40 m² • 1 piętro - BEZPOŚREDNIO"
+    },
+    {
+        "address": "Targówek, Warszawa, Słowackiego",
+        "district": "Targówek, Warszawa",
+        "id": "620767619",
+        "latitude": 52.272021200000005,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/targowek/radzymin-+sypialnia-warszawy-ul-slowackiego-2+pokojowe-40-m-1-pietro-+-bezposrednio/1006207676190911305960609",
+        "longitude": 20.974895800000002,
+        "precise": false,
+        "title": "Radzymin -Sypialnia Warszawy, ul.Słowackiego, 2-pokojowe • 40 m² • 1 piętro - BEZPOŚREDNIO"
+    },
+    {
+        "address": "Bielany, Warszawa, Rudnickiego ",
+        "district": "Bielany, Warszawa",
+        "id": "621328678",
+        "latitude": 52.26824929999999,
+        "link": "https://www.gumtree.pl/a-mieszkania-i-domy-sprzedam-i-kupie/bielany/odstapie-partycypacje-tbs-49-5m2-bielany/1006213286780910535136909",
+        "longitude": 20.9477723,
+        "precise": false,
+        "title": "Odstąpię partycypację TBS 49.5m2 Bielany"
+    }
+]

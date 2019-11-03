@@ -1,0 +1,51 @@
+[
+    {
+        "address": null,
+        "district": "Warszawa, Targówek",
+        "id": "565875835",
+        "link": "https://www.olx.pl/oferta/mieszkanie-3-pokoje-CID3-IDCim9B.html#343ed7b49d",
+        "title": "Mieszkanie 3 pokoje"
+    },
+    {
+        "address": "Warszawa, Mokotów, ul. Artura Malawskiego",
+        "district": "Warszawa, Mokotów",
+        "id": "565897736",
+        "link": "https://www.otodom.pl/oferta/mieszkanie-38-8-m2-malawskiego-wierzbno-ID3XvWq.html?",
+        "title": "Mieszkanie 38,8 m2 Malawskiego (Wierzbno)"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Targówek",
+        "id": "565944341",
+        "link": "https://www.olx.pl/oferta/m2-brodno-CID3-IDCiDYx.html#343ed7b49d",
+        "title": "M2 Bródno"
+    },
+    {
+        "address": "Warszawa, Bielany, Starej Baśni",
+        "district": "Warszawa, Bielany",
+        "id": "565945980",
+        "link": "https://www.olx.pl/oferta/bielany-47-60-m2-3-pokoje-1-pietro-ul-starej-basni-CID3-IDCiEoY.html#343ed7b49d",
+        "title": "Bielany 47,60 m2, 3 pokoje, 1 piętro ul. Starej Baśni"
+    },
+    {
+        "address": "Warszawa, Targówek, ul. Michała Kleofasa Ogińskiego",
+        "district": "Warszawa, Targówek",
+        "id": "566001876",
+        "link": "https://www.otodom.pl/oferta/mieszkanie-53-50m2-na-brodnie-warszawa-bezposred-ID43e8a.html?",
+        "title": "Mieszkanie 53,50m2 na Bródnie, Warszawa. Bezpośred"
+    },
+    {
+        "address": "Warszawa, Ursynów, ul. Stefana Kopcińskiego 16",
+        "district": "Warszawa, Ursynów",
+        "id": "566024793",
+        "link": "https://www.otodom.pl/oferta/2-pokoje-kopcinskiego-16-ursynow-ID43kzU.html?",
+        "title": "2 pokoje, Kopcińskiego 16, Ursynów"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, ul. Komorska",
+        "district": "Warszawa, Praga-Południe",
+        "id": "566079917",
+        "link": "https://www.otodom.pl/oferta/mieszkanie-3-pokojowe-po-generalnym-remoncie-ID43kIo.html?",
+        "title": "Mieszkanie 3-pokojowe po generalnym remoncie."
+    }
+]

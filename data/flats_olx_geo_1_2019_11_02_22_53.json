@@ -1,0 +1,961 @@
+[
+    {
+        "address": "Warszawa, Targówek, Malborska 6",
+        "district": "Warszawa, Targówek",
+        "id": "506908383",
+        "latitude": 52.29373589999999,
+        "link": "https://www.olx.pl/oferta/sprzedam-mieszkanie-3-pokojowe-bezposrednio-ul-malborska-6-CID3-IDyiV1F.html#b24cef3d9e;promoted",
+        "longitude": 21.0491097,
+        "precise": true,
+        "title": "Sprzedam mieszkanie 3 pokojowe bezpośrednio ul. Malborska 6"
+    },
+    {
+        "address": "Warszawa, Mokotów, Batorego 31",
+        "district": "Warszawa, Mokotów",
+        "id": "511883979",
+        "latitude": 52.2108786,
+        "link": "https://www.olx.pl/oferta/batorego-49-m2-przy-metrze-pole-mokotowskie-sgh-metro-obok-bruna-CID3-IDyDOpd.html#b23726229c",
+        "longitude": 21.0109105,
+        "precise": true,
+        "title": "Batorego 49 m2 przy metrze Pole Mokotowskie SGH METRO obok Bruna"
+    },
+    {
+        "address": "Warszawa, Żoliborz, Broniewskiego 26",
+        "district": "Warszawa, Żoliborz",
+        "id": "518319103",
+        "latitude": 52.2667179,
+        "link": "https://www.olx.pl/oferta/47-8-m-3-pok-bezposrednio-zoliborz-CID3-IDz4Otx.html#21aaa1c267",
+        "longitude": 20.9653965,
+        "precise": true,
+        "title": "47.8 m 3 pok. bezposrednio Żoliborz"
+    },
+    {
+        "address": "Warszawa, Wola, ul. Erazma Ciołka 26",
+        "district": "Warszawa, Wola",
+        "id": "524312458",
+        "latitude": 52.2447611,
+        "link": "https://www.otodom.pl/oferta/bezpos-okazja-ciche-46-78-m2-wola-kolo-ID3YnJq.html?",
+        "longitude": 20.9440864,
+        "precise": true,
+        "title": "Bezpoś. okazja, ciche 46,78 m2, WOLA ,,KOŁO’’"
+    },
+    {
+        "address": "Warszawa, Mokotów, ul. Gotarda",
+        "district": "Warszawa, Mokotów",
+        "id": "525136448",
+        "latitude": 52.1706907,
+        "link": "https://www.otodom.pl/oferta/bezposrednio-m3-w-atrakcyjnej-cenie-i-lokalizacji-ID3YzS0.html?",
+        "longitude": 21.0025171,
+        "precise": false,
+        "title": "Bezpośrednio! M3 w atrakcyjnej cenie i lokalizacji"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Żoliborz",
+        "id": "533404610",
+        "link": "https://www.olx.pl/oferta/sprzedam-mieszkanie-gotowe-do-zamieszkania-58-metrow-na-zoliborzu-CID3-IDA66Ua.html#b23726229c",
+        "title": "Sprzedam mieszkanie gotowe do zamieszkania 58 metrów na Żoliborzu"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Mokotów",
+        "id": "538537666",
+        "link": "https://www.olx.pl/oferta/sprzedam-mieszkanie-przy-metrze-pole-mokotowskie-wum-sgh-wlasciciel-CID3-IDArEfo.html#b23726229c",
+        "title": "Sprzedam Mieszkanie przy metrze Pole Mokotowskie. WUM, SGH, WŁASCICIEL"
+    },
+    {
+        "address": "Warszawa, Ochota, ul. Stefana Baleya",
+        "district": "Warszawa, Ochota",
+        "id": "538675062",
+        "latitude": 52.197927400000005,
+        "link": "https://www.otodom.pl/oferta/38m2-rakowiec-dwa-pokoje-tylko-bezposrednio-ID41cI7.html?",
+        "longitude": 20.980922300000003,
+        "precise": false,
+        "title": "38m2 Rakowiec, dwa pokoje tylko bezpośrednio"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Śródmieście",
+        "id": "539164543",
+        "link": "https://www.olx.pl/oferta/aktualne-sprzedam-partycypacje-tbs-pory-mokotow-CID3-IDAuhkj.html#b23726229c",
+        "title": "AKTUALNE Sprzedam partycypacje TBS pory Mokotów"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Targówek",
+        "id": "539971674",
+        "link": "https://www.olx.pl/oferta/mieszkanie-targowek-zamiejska-ogrodek-okazja-CID3-IDAxFiy.html#7226bf74b5",
+        "title": "Mieszkanie Targówek Zamiejska ogródek okazja!!!"
+    },
+    {
+        "address": "Warszawa, Mokotów, Portofino 6",
+        "district": "Warszawa, Mokotów",
+        "id": "541234267",
+        "latitude": 52.1761298,
+        "link": "https://www.olx.pl/oferta/bezposrednio-mieszkanie-2-pokoje-42m2-stegny-CID3-IDACXKX.html#21aaa1c267",
+        "longitude": 21.0597837,
+        "precise": true,
+        "title": "BEZPOŚREDNIO! Mieszkanie 2 pokoje - 42m2, STEGNY"
+    },
+    {
+        "address": "Warszawa, Targówek, Zamkowej",
+        "district": "Warszawa, Targówek",
+        "id": "544227617",
+        "latitude": 52.27483350000001,
+        "link": "https://www.olx.pl/oferta/sprzedam-mieszkanie-wilno-CID3-IDAPvsN.html#343ed7b49d",
+        "longitude": 21.0805878,
+        "precise": false,
+        "title": "Sprzedam mieszkanie Wilno"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Wola",
+        "id": "548503833",
+        "link": "https://www.olx.pl/oferta/sprzedam-mieszkanie-40-m-na-jana-kazimierza-CID3-IDB7sU1.html#b24cef3d9e",
+        "title": "Sprzedam mieszkanie 40 m na Jana Kazimierza"
+    },
+    {
+        "address": "Warszawa, Wola, ul. Księcia Janusza",
+        "district": "Warszawa, Wola",
+        "id": "550310477",
+        "latitude": 52.2448404,
+        "link": "https://www.otodom.pl/oferta/wola-48m-3pok-100m-metro-ks-janusza-zielen-ID427hC.html?",
+        "longitude": 20.9398952,
+        "precise": false,
+        "title": "Wola - 48m 3pok. 100m Metro ks. Janusza, zieleń"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, ul. Polskich Skrzydeł 4",
+        "district": "Warszawa, Praga-Południe",
+        "id": "551507683",
+        "latitude": 52.2244924,
+        "link": "https://www.otodom.pl/oferta/dobra-cena-i-lokalizacja-goclaw-do-remontu-ID42d5y.html?",
+        "longitude": 21.0887157,
+        "precise": true,
+        "title": "Dobra cena i lokalizacja :) Gocław do remontu"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, Francuskiej\r",
+        "district": "Warszawa, Praga-Południe",
+        "id": "552920783",
+        "latitude": 52.23511689999999,
+        "link": "https://www.olx.pl/oferta/mieszkanie-saska-kepa-38m2-miedzynarodowa-na-sprzedaz-CID3-IDBpZX9.html#b23726229c",
+        "longitude": 21.054441399999998,
+        "precise": false,
+        "title": "Mieszkanie Saska Kępa 38m2 Międzynarodowa na sprzedaż"
+    },
+    {
+        "address": "Warszawa, Mokotów, Bernardyńskiej",
+        "district": "Warszawa, Mokotów",
+        "id": "553525702",
+        "latitude": 52.1949292,
+        "link": "https://www.olx.pl/oferta/sprzedam-bezposrednio-mieszkanie-w-okolicy-jez-czerniakowskiego-CID3-IDBsxjU.html#343ed7b49d;promoted",
+        "longitude": 21.062575499999998,
+        "precise": false,
+        "title": "Sprzedam bezpośrednio mieszkanie w okolicy Jez. Czerniakowskiego"
+    },
+    {
+        "address": "Warszawa, Wola, Zawiszy",
+        "district": "Warszawa, Wola",
+        "id": "554546835",
+        "latitude": 52.2437114,
+        "link": "https://www.olx.pl/oferta/partycypacja-tbs-warszawa-ul-zawiszy-CID3-IDBvOXN.html#21aaa1c267",
+        "longitude": 20.962635499999998,
+        "precise": false,
+        "title": "Partycypacja TBS Warszawa, ul. Zawiszy"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, ul. Osowska",
+        "district": "Warszawa, Praga-Południe",
+        "id": "554663285",
+        "latitude": 52.2460748,
+        "link": "https://www.otodom.pl/oferta/sprzedam-mieszkanie-38m-2pokoje-praga-poludnie-ID42tiT.html?",
+        "longitude": 21.103068,
+        "precise": false,
+        "title": "Sprzedam mieszkanie 38m, 2pokoje, Praga Południe"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, ul. Wiatraczna",
+        "district": "Warszawa, Praga-Południe",
+        "id": "555040582",
+        "latitude": 52.253548800000004,
+        "link": "https://www.otodom.pl/oferta/47-m-przestronne-po-remoncie-dla-mlodych-ID42wlu.html?",
+        "longitude": 21.085219,
+        "precise": false,
+        "title": "47 m, przestronne po remoncie - dla młodych"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Mokotów",
+        "id": "555135819",
+        "link": "https://www.olx.pl/oferta/2-pok-38-1-m2-warszawa-sadyba-spokojna-i-zielona-okolica-CID3-IDBzibx.html#7226bf74b5",
+        "title": "2 pok., 38,1 m2 Warszawa, Sadyba- spokojna i zielona okolica"
+    },
+    {
+        "address": "Warszawa, Targówek, Turmoncka",
+        "district": "Warszawa, Targówek",
+        "id": "555293588",
+        "latitude": 52.29805140000001,
+        "link": "https://www.olx.pl/oferta/sprzedam-2-pokoje-49m-taras-16m-garaz-brodno-ul-turmoncka-CID3-IDBzXec.html#b24cef3d9e",
+        "longitude": 21.0361534,
+        "precise": false,
+        "title": "Sprzedam 2 pokoje 49m, taras 16m, garaż Bródno ul. Turmoncka"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, Korkowa 137",
+        "district": "Warszawa, Praga-Południe",
+        "id": "555379102",
+        "latitude": 52.2391646,
+        "link": "https://www.olx.pl/oferta/bezposrednio-marysin-korkowa-47m-3-pokoje-piwnica-do-remontu-CID3-IDBAjts.html#7226bf74b5",
+        "longitude": 21.150639,
+        "precise": true,
+        "title": "Bezposrednio Marysin, Korkowa, 47m, 3 pokoje, piwnica, do remontu"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, Ostrobramskiej",
+        "district": "Warszawa, Praga-Południe",
+        "id": "555723146",
+        "latitude": 52.235121599999985,
+        "link": "https://www.olx.pl/oferta/2-pokoje-przy-c-h-promenada-44m2-skanska-odbior-10-2019-CID3-IDBBKYy.html#b24cef3d9e",
+        "longitude": 21.1029323,
+        "precise": false,
+        "title": "2 pokoje przy C.H. Promenada 44m2, SKANSKA, odbiór 10.2019'"
+    },
+    {
+        "address": "Warszawa, Mokotów, ul. Belwederska",
+        "district": "Warszawa, Mokotów",
+        "id": "555807612",
+        "latitude": 52.2078628,
+        "link": "https://www.otodom.pl/oferta/mokotow-3-pokojowe-belwederska-dolna-ID41eoG.html?",
+        "longitude": 21.0304261,
+        "precise": false,
+        "title": "Mokotów 3 pokojowe, Belwederska Dolna"
+    },
+    {
+        "address": "Warszawa, Bielany, Rudnickego",
+        "district": "Warszawa, Bielany",
+        "id": "556650101",
+        "latitude": 52.268849299999985,
+        "link": "https://www.olx.pl/oferta/mieszkanie-partycypacja-tbs-na-sprzedaz-bielany-ul-rudnickego-CID3-IDBFE7r.html#21aaa1c267",
+        "longitude": 20.948472300000002,
+        "precise": false,
+        "title": "Mieszkanie partycypacja TBS na sprzedaż, Bielany ul Rudnickego"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, Meissnera ",
+        "district": "Warszawa, Praga-Południe",
+        "id": "557755605",
+        "latitude": 52.2229482,
+        "link": "https://www.olx.pl/oferta/bezposrednio-praga-poludnie-goclaw-2pok-42m2-1pietro-do-remontu-CID3-IDBKhI9.html#b24cef3d9e",
+        "longitude": 21.087407499999998,
+        "precise": false,
+        "title": "Bezpośrednio - Praga Południe, Gocław, 2pok, 42m2, 1piętro, do remontu"
+    },
+    {
+        "address": "Warszawa, Mokotów, Taśmowa",
+        "district": "Warszawa, Mokotów",
+        "id": "558224898",
+        "latitude": 52.1797291,
+        "link": "https://www.otodom.pl/oferta/warszawa-mokotow-2-pokoje-duza-sypialnia-lokal-40m-ID42M35.html?",
+        "longitude": 20.990336799999998,
+        "precise": false,
+        "title": "Warszawa Mokotów 2 pokoje duża sypialnia lokal 40m"
+    },
+    {
+        "address": "Warszawa, Wola, Redutowej",
+        "district": "Warszawa, Wola",
+        "id": "558433055",
+        "latitude": 52.2309504,
+        "link": "https://www.olx.pl/oferta/nowoczesne-mieszkanie-na-woli-metro-5-minut-spacerem-CID3-IDBN7VL.html#b24cef3d9e;promoted",
+        "longitude": 20.943012200000002,
+        "precise": false,
+        "title": "Nowoczesne mieszkanie na Woli-metro 5 minut spacerem!"
+    },
+    {
+        "address": "Warszawa, Targówek, Kondratowicza",
+        "district": "Warszawa, Targówek",
+        "id": "559669846",
+        "latitude": 52.2930006,
+        "link": "https://www.olx.pl/oferta/mieszkanie-53-mkw-3-pokoje-warszawa-targowek-stacja-metra-brodno-CID3-IDBSjH0.html#d3be61fb91",
+        "longitude": 21.0483495,
+        "precise": false,
+        "title": "Mieszkanie 53 mkw, 3 pokoje, Warszawa, Targówek, Stacja Metra Bródno"
+    },
+    {
+        "address": "Warszawa, Bielany, Żeromskiego",
+        "district": "Warszawa, Bielany",
+        "id": "560027868",
+        "latitude": 52.277032600000005,
+        "link": "https://www.otodom.pl/oferta/sprzedam-2-pokoje-bezposrednio-bielany-piekne-m-ID42TMJ.html?",
+        "longitude": 20.9519904,
+        "precise": false,
+        "title": "Sprzedam 2 pokoje, bezpośrednio, Bielany, piękne m"
+    },
+    {
+        "address": "Warszawa, Targówek, ul. Chodecka",
+        "district": "Warszawa, Targówek",
+        "id": "560156402",
+        "latitude": 52.2926015,
+        "link": "https://www.otodom.pl/oferta/brodno-bezposrednio-3pokoje-kw-do-zamieszkania-ID424AP.html?",
+        "longitude": 21.041787199999998,
+        "precise": false,
+        "title": "Bródno,bezpośrednio, 3pokoje, KW, do zamieszkania,"
+    },
+    {
+        "address": "Warszawa, Mokotów, Czerniakowska 48",
+        "district": "Warszawa, Mokotów",
+        "id": "560184975",
+        "latitude": 52.2083714,
+        "link": "https://www.olx.pl/oferta/mieszkanie-ul-czerniakowska-48-48m2-3-pokojowe-bezposrednio-CID3-IDBUtHx.html#21aaa1c267",
+        "longitude": 21.0489729,
+        "precise": true,
+        "title": "MIeszkanie ul. Czerniakowska 48 48m2 3 pokojowe BEZPOŚREDNIO"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, ul. Jana Zamoyskiego",
+        "district": "Warszawa, Praga-Południe",
+        "id": "560225688",
+        "latitude": 52.24779599999999,
+        "link": "https://www.otodom.pl/oferta/sprzedam-mieszkanie-praga-pd-ID42Ubu.html?",
+        "longitude": 21.046034,
+        "precise": false,
+        "title": "SPRZEDAM mieszkanie Praga Pd"
+    },
+    {
+        "address": "Warszawa, Bielany, Bogusławskiego",
+        "district": "Warszawa, Bielany",
+        "id": "560231366",
+        "latitude": 52.2785217,
+        "link": "https://www.olx.pl/oferta/bezposrednio-warszawa-bielany-2-pokojowe-50-6-m2-piekna-okolica-CID3-IDBUFLM.html#b24cef3d9e",
+        "longitude": 20.9178395,
+        "precise": false,
+        "title": "Bezpośrednio Warszawa Bielany 2-pokojowe 50,6 m2 - piękna okolica!"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, Hetmańskiej ",
+        "district": "Warszawa, Praga-Południe",
+        "id": "560287383",
+        "latitude": 52.2446051,
+        "link": "https://www.olx.pl/oferta/mieszkanie-w-kamienicy-blisko-parku-CID3-IDBUUlh.html#343ed7b49d;promoted",
+        "longitude": 21.110570099999997,
+        "precise": false,
+        "title": "Mieszkanie w kamienicy blisko parku"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, ul. Hetmańska",
+        "district": "Warszawa, Praga-Południe",
+        "id": "560294348",
+        "latitude": 52.2444051,
+        "link": "https://www.otodom.pl/oferta/mieszkanie-w-kamienicy-blisko-parku-ID42UjZ.html?",
+        "longitude": 21.110370099999997,
+        "precise": false,
+        "title": "Mieszkanie w kamienicy blisko parku"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Bielany",
+        "id": "560386395",
+        "link": "https://www.otodom.pl/oferta/bielany-47m2-metro-3-pokoje-broniewskiego-ID42UCW.html?",
+        "title": "Bielany 47m2 metro 3 pokoje Broniewskiego"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Praga-Północ",
+        "id": "560444311",
+        "link": "https://www.olx.pl/oferta/partycypacja-tbs-50-m2-praga-polnoc-CID3-IDBWzan.html#7226bf74b5",
+        "title": "Partycypacja TBS - 50 m2 Praga Północ"
+    },
+    {
+        "address": "Warszawa, Targówek, ul. Suwalska",
+        "district": "Warszawa, Targówek",
+        "id": "560556685",
+        "latitude": 52.2961471,
+        "link": "https://www.otodom.pl/oferta/38-m2-metro-brodno-po-kapitalnym-remoncie-ID42WoV.html?",
+        "longitude": 21.034323299999997,
+        "precise": false,
+        "title": "38 m2 Metro Bródno, po kapitalnym remoncie!"
+    },
+    {
+        "address": "Warszawa, Bielany, ul. Arkuszowa",
+        "district": "Warszawa, Bielany",
+        "id": "560557453",
+        "latitude": 52.2857862,
+        "link": "https://www.otodom.pl/oferta/bezposrednio-bezczynszowe-2-pokoje-41-mkw-ID42Wp0.html?",
+        "longitude": 20.895387799999998,
+        "precise": false,
+        "title": "Bezpośrednio, BEZCZYNSZOWE, 2 pokoje 41 mkw"
+    },
+    {
+        "address": "Warszawa, Mokotów, Konstancińska ",
+        "district": "Warszawa, Mokotów",
+        "id": "560641929",
+        "latitude": 52.1879543,
+        "link": "https://www.olx.pl/oferta/mieszkanie-z-ogrodkiem-3-pokoje-ul-konstancinska-przy-sadyba-best-mall-CID3-IDBVozL.html#b23726229c",
+        "longitude": 21.0604767,
+        "precise": false,
+        "title": "Mieszkanie z ogródkiem 3 pokoje ul Konstancińska przy Sadyba Best Mall"
+    },
+    {
+        "address": "Warszawa, Targówek, Łabiszyńska 23",
+        "district": "Warszawa, Targówek",
+        "id": "560742215",
+        "latitude": 52.29666539999999,
+        "link": "https://www.olx.pl/oferta/2-pokoje-ul-labiszynska-23-CID3-IDBVOFh.html#7226bf74b5",
+        "longitude": 21.0324372,
+        "precise": true,
+        "title": "2 pokoje ul.Łabiszyńska 23"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, Nasielskiej 36",
+        "district": "Warszawa, Praga-Południe",
+        "id": "560778266",
+        "latitude": 52.2477282,
+        "link": "https://www.olx.pl/oferta/sprzedam-partcypacje-w-tbs-CID3-IDBVY2K.html#b23726229c",
+        "longitude": 21.0993006,
+        "precise": true,
+        "title": "Sprzedam partcypację w TBS"
+    },
+    {
+        "address": null,
+        "district": "Warszawa",
+        "id": "560860355",
+        "link": "https://www.otodom.pl/oferta/mieszkanie-dwupoziomowe-warszawa-ID42VYz.html?",
+        "title": "MIeszkanie dwupoziomowe, Warszawa"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Mokotów",
+        "id": "560890270",
+        "link": "https://www.olx.pl/oferta/apartament-w-hiszpanii-500-m-od-morza-CID3-IDBXrbg.html#b23726229c",
+        "title": "Apartament w Hiszpanii 500 m od morza"
+    },
+    {
+        "address": "Warszawa, Wola, Górczewskiej",
+        "district": "Warszawa, Wola",
+        "id": "560910465",
+        "latitude": 52.2393452,
+        "link": "https://www.olx.pl/oferta/mroczna-2-pokoje-42-m2-CID3-IDBXvqZ.html#b23726229c",
+        "longitude": 20.9438691,
+        "precise": false,
+        "title": "Mroczna 2 pokoje 42 m2"
+    },
+    {
+        "address": "Warszawa, Wola, ul. Jana Kazimierza",
+        "district": "Warszawa, Wola",
+        "id": "560963030",
+        "latitude": 52.2235788,
+        "link": "https://www.otodom.pl/oferta/sprzedam-mieszkanie-40-m-na-jana-kazimierza-ID42XGH.html?",
+        "longitude": 20.9402002,
+        "precise": false,
+        "title": "Sprzedam mieszkanie 40 m na Jana Kazimierza"
+    },
+    {
+        "address": "Warszawa, Wola, Franciszka Raszei",
+        "district": "Warszawa, Wola",
+        "id": "561295872",
+        "latitude": 52.245296,
+        "link": "https://www.olx.pl/oferta/mieszkanie-na-sprzedaz-ul-franciszka-raszei-kolo-bezposrednio-CID3-IDBZ8He.html#21aaa1c267",
+        "longitude": 20.952558699999997,
+        "precise": false,
+        "title": "Mieszkanie na sprzedaż ul. Franciszka Raszei, Koło BEZPOŚREDNIO"
+    },
+    {
+        "address": "Warszawa, Żoliborz, Izabelli",
+        "district": "Warszawa, Żoliborz",
+        "id": "561350967",
+        "latitude": 52.266805,
+        "link": "https://www.olx.pl/oferta/mieszkanie-2-pokojowe-zoliborz-CID3-IDBZn1R.html#b23726229c",
+        "longitude": 20.9600963,
+        "precise": false,
+        "title": "Mieszkanie 2-pokojowe Zoliborz"
+    },
+    {
+        "address": "Warszawa, Mokotów, ul. Chełmska",
+        "district": "Warszawa, Mokotów",
+        "id": "561718112",
+        "latitude": 52.202612699999996,
+        "link": "https://www.otodom.pl/oferta/sprzedam-mieszkanie-warszawa-ul-chelmska-ID430Se.html?",
+        "longitude": 21.0429313,
+        "precise": false,
+        "title": "Sprzedam mieszkanie Warszawa ul. Chełmska"
+    },
+    {
+        "address": "Warszawa, Bielany, Bogusławskiego",
+        "district": "Warszawa, Bielany",
+        "id": "561727390",
+        "latitude": 52.2785217,
+        "link": "https://www.olx.pl/oferta/bezposrednio-CID3-IDC0VXc.html#b23726229c",
+        "longitude": 20.917339499999997,
+        "precise": false,
+        "title": "Bezpośrednio"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, ul. Afrykańska",
+        "district": "Warszawa, Praga-Południe",
+        "id": "561774635",
+        "latitude": 52.22603299999999,
+        "link": "https://www.otodom.pl/oferta/sprzedam-2-pokojowe-saska-kepa-ID42Zd1.html?",
+        "longitude": 21.0706475,
+        "precise": false,
+        "title": "Sprzedam - 2 pokojowe Saska Kępa"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Mokotów",
+        "id": "561871961",
+        "link": "https://www.otodom.pl/oferta/mieszkanie-na-mokotowie-mokotow-ID42scz.html?",
+        "title": "Mieszkanie na Mokotowie, Mokotów"
+    },
+    {
+        "address": "Warszawa, Targówek, Wysockiego ",
+        "district": "Warszawa, Targówek",
+        "id": "561879016",
+        "latitude": 52.2878963,
+        "link": "https://www.olx.pl/oferta/zamienie-lub-sprzedam-mieszkanie-2-pokojowe-na-3-lub-4-pokojowe-CID3-IDC1AoM.html#7226bf74b5",
+        "longitude": 21.0211648,
+        "precise": false,
+        "title": "Zamienię lub sprzedam mieszkanie 2 -pokojowe na 3 lub 4 pokojowe"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Targówek",
+        "id": "561937155",
+        "link": "https://www.olx.pl/oferta/sprzedam-mieszkanie-CID3-IDC1Pvw.html#b24cef3d9e;promoted",
+        "title": "sprzedam mieszkanie"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, ul. Osowska",
+        "district": "Warszawa, Praga-Południe",
+        "id": "562031821",
+        "latitude": 52.2459748,
+        "link": "https://www.otodom.pl/oferta/sprzedam-bezposrednio-mieszkanie-praga-poludnie-ID432fv.html?",
+        "longitude": 21.103168,
+        "precise": false,
+        "title": "Sprzedam bezpośrednio mieszkanie Praga Południe"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, Gocławskiej",
+        "district": "Warszawa, Praga-Południe",
+        "id": "562078205",
+        "latitude": 52.2486278,
+        "link": "https://www.olx.pl/oferta/dwupokojowe-mieszkanie-w-modnej-i-funkcjonalnej-czesci-pragi-poludnie-CID3-IDC2qdw.html#b23726229c",
+        "longitude": 21.063861,
+        "precise": false,
+        "title": "Dwupokojowe mieszkanie w modnej i funkcjonalnej części Pragi-Południe"
+    },
+    {
+        "address": "Warszawa, Kłobudzka 8",
+        "district": "Warszawa",
+        "id": "562353556",
+        "latitude": 52.162315,
+        "link": "https://www.otodom.pl/oferta/rynek-pierwotny-oddanie-listopad-2019-ID434jJ.html?",
+        "longitude": 20.9926069,
+        "precise": true,
+        "title": "Rynek Pierwotny - Oddanie Listopad 2019!!"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Żoliborz",
+        "id": "562617307",
+        "link": "https://www.olx.pl/oferta/sprzedam-mieszkanie-46-5-m-elblaska-zoliboz-CID3-IDC4GsH.html#b23726229c",
+        "title": "Sprzedam mieszkanie 46.5 m Elbląska Żoliboż"
+    },
+    {
+        "address": "Warszawa, Wola, ul. Monte Cassino",
+        "district": "Warszawa, Wola",
+        "id": "562732212",
+        "latitude": 52.2362289,
+        "link": "https://www.otodom.pl/oferta/bezposrednio-atrakcyjne-2-pokoje-38m2-wola-metro-ID436wU.html?",
+        "longitude": 20.946483999999998,
+        "precise": false,
+        "title": "Bezpośrednio atrakcyjne 2 pokoje, 38m2, Wola,metro"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Praga-Południe",
+        "id": "562742552",
+        "link": "https://www.olx.pl/oferta/idealne-mieszkanie-dla-ciebie-43-50m-bezposrednio-lub-zamiana-na-dom-CID3-IDC5d2M.html#b23726229c",
+        "title": "Idealne mieszkanie dla Ciebie 43.50m bezpośrednio lub zamiana na dom"
+    },
+    {
+        "address": "Warszawa, Żoliborz, Broniewskiego ",
+        "district": "Warszawa, Żoliborz",
+        "id": "562783513",
+        "latitude": 52.2669744,
+        "link": "https://www.olx.pl/oferta/mieszkanie-zoliborz-elblaska-67-CID3-IDC5nHr.html#343ed7b49d",
+        "longitude": 20.964234599999997,
+        "precise": false,
+        "title": "Mieszkanie Żoliborz Elbląska 67"
+    },
+    {
+        "address": "Warszawa, Ursynów, Polki",
+        "district": "Warszawa, Ursynów",
+        "id": "562904524",
+        "latitude": 52.152212299999995,
+        "link": "https://www.olx.pl/oferta/dwupokojowe-mieszkanie-ursynow-CID3-IDC5Tbe.html#b23726229c",
+        "longitude": 21.0068769,
+        "precise": false,
+        "title": "Dwupokojowe mieszkanie Ursynów"
+    },
+    {
+        "address": "Warszawa, Wola, Pustola",
+        "district": "Warszawa, Wola",
+        "id": "562916594",
+        "latitude": 52.233534,
+        "link": "https://www.olx.pl/oferta/bezposrednio-2-pokoje-do-remontu-wola-CID3-IDC5VjU.html#b23726229c",
+        "longitude": 20.9414157,
+        "precise": false,
+        "title": "Bezpośrednio 2 pokoje do remontu - Wola"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Praga-Południe",
+        "id": "562925636",
+        "link": "https://www.otodom.pl/oferta/mieszkanie-praga-poludnie-miedzyborska-38-6-ID437wL.html?",
+        "title": "Mieszkanie Praga Południe Międzyborska 38,6"
+    },
+    {
+        "address": "Warszawa, Bielany, Rudnickiego",
+        "district": "Warszawa, Bielany",
+        "id": "563097061",
+        "latitude": 52.268849299999985,
+        "link": "https://www.olx.pl/oferta/mieszkanie-na-sprzedaz-CID3-IDC6HgF.html#b23726229c",
+        "longitude": 20.948572300000002,
+        "precise": false,
+        "title": "Mieszkanie na sprzedaż"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Wola",
+        "id": "563135794",
+        "link": "https://www.olx.pl/oferta/chatkapuchatka-mieszkanie-do-sprzedania-CID3-IDC6Rlo.html#b23726229c",
+        "title": "Chatkapuchatka - mieszkanie do sprzedania"
+    },
+    {
+        "address": "Warszawa, Mokotów, ul Bachmacka 5",
+        "district": "Warszawa, Mokotów",
+        "id": "563327006",
+        "latitude": 52.194395,
+        "link": "https://www.otodom.pl/oferta/gorny-mokotow-bachmacka-38-m-2-pokoje-ID438O9.html?",
+        "longitude": 21.004611,
+        "precise": true,
+        "title": "Górny Mokotów, Bachmacka, 38 m, 2 pokoje"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Wola",
+        "id": "563412902",
+        "link": "https://www.olx.pl/oferta/sprzedam-ciche-mieszkanie-przy-hali-mirowskiej-CID3-IDC81qS.html#21aaa1c267",
+        "title": "Sprzedam ciche mieszkanie przy Hali Mirowskiej"
+    },
+    {
+        "address": "Warszawa, Mokotów, ul. Konstancińska",
+        "district": "Warszawa, Mokotów",
+        "id": "563468583",
+        "latitude": 52.1881543,
+        "link": "https://www.otodom.pl/oferta/mieszkanie-z-ogrodkiem-3-pokoje-ul-konstancinska-ID439BK.html?",
+        "longitude": 21.0604767,
+        "precise": false,
+        "title": "Mieszkanie z ogródkiem 3 pokoje ul Konstancińska"
+    },
+    {
+        "address": "Warszawa, Bielany, Rudnickiego ",
+        "district": "Warszawa, Bielany",
+        "id": "563536229",
+        "latitude": 52.268849299999985,
+        "link": "https://www.olx.pl/oferta/tbs-warszawa-bielany-52-m2-CID3-IDC8xv1.html#7226bf74b5",
+        "longitude": 20.9481723,
+        "precise": false,
+        "title": "TBS Warszawa Bielany - 52 m2"
+    },
+    {
+        "address": "Warszawa, Wola, Okopowa 16",
+        "district": "Warszawa, Wola",
+        "id": "563821216",
+        "latitude": 52.2393351,
+        "link": "https://www.otodom.pl/oferta/3-pokoje-na-nowolipkach-do-remontu-bezposrednio-ID43bAF.html?",
+        "longitude": 20.9789199,
+        "precise": true,
+        "title": "3 pokoje na Nowolipkach do Remontu! BEZPOŚREDNIO!"
+    },
+    {
+        "address": "Warszawa, Targówek, Gajkowicza",
+        "district": "Warszawa, Targówek",
+        "id": "563908808",
+        "latitude": 52.2744112,
+        "link": "https://www.olx.pl/oferta/mieszkanie-bezposrednio-CID3-IDCa6rm.html#7226bf74b5",
+        "longitude": 21.0585377,
+        "precise": false,
+        "title": "Mieszkanie bezpośrednio"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, Bora-Komorowskiego",
+        "district": "Warszawa, Praga-Południe",
+        "id": "564044905",
+        "latitude": 52.225943,
+        "link": "https://www.olx.pl/oferta/sprzedam-bezposrednio-3-pokoje-63-m2-na-goclawiu-CID3-IDCaFQt.html#7226bf74b5",
+        "longitude": 21.0886829,
+        "precise": false,
+        "title": "Sprzedam bezpośrednio 3 pokoje (63 m2) na Gocławiu"
+    },
+    {
+        "address": "Warszawa, Bielany, J.Balcerzaka",
+        "district": "Warszawa, Bielany",
+        "id": "564223025",
+        "latitude": 52.293838199999996,
+        "link": "https://www.otodom.pl/oferta/sprzedam-mieszkanie-tbs-ID43e6b.html?",
+        "longitude": 20.934676500000002,
+        "precise": false,
+        "title": "Sprzedam mieszkanie TBS"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, ul. gen. Augusta Emila Fieldorfa",
+        "district": "Warszawa, Praga-Południe",
+        "id": "564306265",
+        "latitude": 52.22773540000001,
+        "link": "https://www.otodom.pl/oferta/o-k-a-z-j-a-fieldorfa-goclaw-warszawa-bezposre-ID43et0.html?",
+        "longitude": 21.094417,
+        "precise": false,
+        "title": "$ O K A Z J A $ Fieldorfa Gocław Warszawa BEZPOŚRE"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Praga-Południe",
+        "id": "564314628",
+        "link": "https://www.olx.pl/oferta/sprzedam-bezposrednio-mieszkanie-na-saskiej-kepie-CID3-IDCbO0Q.html#7226bf74b5",
+        "title": "sprzedam bezpośrednio mieszkanie na SASKIEJ KĘPIE"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Bielany",
+        "id": "564452215",
+        "link": "https://www.olx.pl/oferta/mieszkanie-warszawa-bielany-42m2-CID3-IDCcnNZ.html#7226bf74b5",
+        "title": "Mieszkanie Warszawa Bielany 42m2"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Mokotów",
+        "id": "564546022",
+        "link": "https://www.olx.pl/oferta/3-pokojowe-mieszkanie-na-mokotowie-47-m2-CID3-IDCcMd0.html#7226bf74b5",
+        "title": "3-pokojowe mieszkanie na Mokotowie 47 m2"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, Grochów",
+        "district": "Warszawa, Praga-Południe",
+        "id": "564571738",
+        "latitude": 52.2406633,
+        "link": "https://www.otodom.pl/oferta/warszawa-praga-pld-osiedle-mlodych-38m2-ID43f7U.html?",
+        "longitude": 21.0878276,
+        "precise": false,
+        "title": "Warszawa Praga Płd Osiedle Młodych 38m2"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, ul. Zawierciańska",
+        "district": "Warszawa, Praga-Południe",
+        "id": "564660686",
+        "latitude": 52.2390327,
+        "link": "https://www.otodom.pl/oferta/ostatnie-2-pokojowe-mieszkania-na-zielonym-goclawk-ID43fnW.html?",
+        "longitude": 21.1234802,
+        "precise": false,
+        "title": "Ostatnie 2-pokojowe mieszkania na zielonym Gocławk"
+    },
+    {
+        "address": "Warszawa, Praga-Północ, Kijowkiej 11",
+        "district": "Warszawa, Praga-Północ",
+        "id": "564691060",
+        "latitude": 52.252975,
+        "link": "https://www.olx.pl/oferta/mieszkanie-kijowska-bezposrednio-CID3-IDCdnVk.html#b24cef3d9e",
+        "longitude": 21.047857,
+        "precise": true,
+        "title": "Mieszkanie Kijowska bezpośrednio"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, ul. Ostrobramska",
+        "district": "Warszawa, Praga-Południe",
+        "id": "564694266",
+        "latitude": 52.234921599999986,
+        "link": "https://www.otodom.pl/oferta/mieszkanie-2-pokoje-ID43fAj.html?",
+        "longitude": 21.1035323,
+        "precise": false,
+        "title": "Mieszkanie 2 pokoje"
+    },
+    {
+        "address": "Warszawa, Targówek, Bródno, Turmoncka",
+        "district": "Warszawa, Targówek",
+        "id": "564724797",
+        "latitude": 52.298551400000015,
+        "link": "https://www.otodom.pl/oferta/jasne-kw-aneks-garaz-schowek-metro-basen-park-wc-ID43fOY.html?",
+        "longitude": 21.0352534,
+        "precise": false,
+        "title": "jasne KW aneks garaż schowek metro basen park WC"
+    },
+    {
+        "address": "Warszawa, Praga-Północ, Wileńskiej 18",
+        "district": "Warszawa, Praga-Północ",
+        "id": "564747633",
+        "latitude": 52.259622,
+        "link": "https://www.olx.pl/oferta/praga-polnoc-2-oddzielne-pokoje-bezposrednio-CID3-IDCdCEN.html#b24cef3d9e;promoted",
+        "longitude": 21.0452939,
+        "precise": true,
+        "title": "Praga Północ - 2 oddzielne pokoje - Bezpośrednio!"
+    },
+    {
+        "address": "Warszawa, Ursynów, ul. Kłobucka",
+        "district": "Warszawa, Ursynów",
+        "id": "564770092",
+        "latitude": 52.1636699,
+        "link": "https://www.otodom.pl/oferta/2-pokojowe-z-oddzielna-kuchnia-w-super-cenie-ID43g9f.html?",
+        "longitude": 20.993280000000002,
+        "precise": false,
+        "title": "2 pokojowe z oddzielną kuchnia w super cenie !"
+    },
+    {
+        "address": "Warszawa, Targówek, Zacisze",
+        "district": "Warszawa, Targówek",
+        "id": "564825263",
+        "latitude": 52.287098400000005,
+        "link": "https://www.otodom.pl/oferta/sprzedam-wykonczone-mieszkanie-targowek-zacisze-ID43gqC.html?",
+        "longitude": 21.0789932,
+        "precise": false,
+        "title": "Sprzedam Wykończone Mieszkanie - Targówek-Zacisze"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Wola",
+        "id": "564831046",
+        "link": "https://www.otodom.pl/oferta/sprzedam-apartament-ID43grQ.html?",
+        "title": "Sprzedam apartament"
+    },
+    {
+        "address": "Warszawa, Wola, wolska",
+        "district": "Warszawa, Wola",
+        "id": "564958731",
+        "latitude": 52.23133270000001,
+        "link": "https://www.otodom.pl/oferta/mieszkanie-na-bliskiej-woli-metro-plocka-38m-ID43gTW.html?",
+        "longitude": 20.954532399999998,
+        "precise": false,
+        "title": "mieszkanie na bliskiej Woli -metro Płocka -38m"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Targówek",
+        "id": "565101741",
+        "link": "https://www.olx.pl/oferta/3-pokojowe-mieszkanie-na-sprzedaz-warszawa-brodno-targowek-CID3-IDCf6Md.html#b24cef3d9e",
+        "title": "3-pokojowe mieszkanie na sprzedaż Warszawa Bródno Targówek"
+    },
+    {
+        "address": "Warszawa, Mokotów, Sardyńska 6",
+        "district": "Warszawa, Mokotów",
+        "id": "565205706",
+        "latitude": 52.178574,
+        "link": "https://www.olx.pl/oferta/mieszkanie-na-sprzedaz-warszawa-stegny-CID3-IDCfxP4.html#343ed7b49d;promoted",
+        "longitude": 21.0536631,
+        "precise": true,
+        "title": "Mieszkanie na sprzedaż, Warszawa, Stegny"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Bielany",
+        "id": "565311370",
+        "link": "https://www.olx.pl/oferta/warszawa-metro-mieszkanie-wrzeciono-17-dwa-pokoje-38m2-winda-CID3-IDCfZjk.html#b24cef3d9e",
+        "title": "Warszawa Metro Mieszkanie Wrzeciono 17 dwa pokoje 38m2 winda"
+    },
+    {
+        "address": "Warszawa, Targówek, Syrokomli 15",
+        "district": "Warszawa, Targówek",
+        "id": "565338823",
+        "latitude": 52.2848489,
+        "link": "https://www.olx.pl/oferta/sprzedam-mieszkanie-2-pokoje-41m2-po-remoncie-blisko-metro-brodno-CID3-IDCg6s7.html#343ed7b49d;promoted",
+        "longitude": 21.0257129,
+        "precise": true,
+        "title": "Sprzedam mieszkanie, 2 pokoje, 41m2, po remoncie, blisko METRO, Bródno"
+    },
+    {
+        "address": "Warszawa, Praga-Południe, ul. Kinowa",
+        "district": "Warszawa, Praga-Południe",
+        "id": "565339661",
+        "latitude": 52.2400412,
+        "link": "https://www.otodom.pl/oferta/3-pokoje10-min-do-centrumpark-skaryszewski-ID43iD2.html?",
+        "longitude": 21.0741505,
+        "precise": false,
+        "title": "3 pokoje*10 min do Centrum*Park Skaryszewski"
+    },
+    {
+        "address": "Warszawa, Targówek, ul. Krasnobrodzka",
+        "district": "Warszawa, Targówek",
+        "id": "565352683",
+        "latitude": 52.3006355,
+        "link": "https://www.otodom.pl/oferta/bezposrednio-przestronne-mieszkanie-3-pok-brodno-ID43iLr.html?",
+        "longitude": 21.042188099999997,
+        "precise": false,
+        "title": "Bezpośrednio przestronne mieszkanie 3 pok. Bródno"
+    },
+    {
+        "address": "Warszawa, Wola, Pawia",
+        "district": "Warszawa, Wola",
+        "id": "565466838",
+        "latitude": 52.24605599999999,
+        "link": "https://www.olx.pl/oferta/bezposrednio-2-pokoje-muranow-nowolipki-ul-pawia-CID3-IDCgDKS.html#343ed7b49d;promoted",
+        "longitude": 20.9865286,
+        "precise": false,
+        "title": "BEZPOŚREDNIO, 2 pokoje, Muranów, Nowolipki, ul. Pawia"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Praga-Południe",
+        "id": "565519362",
+        "link": "https://www.otodom.pl/oferta/1-lub-2-pokoje-do-wlasnej-aranzacji-bezposrednio-ID43jB9.html?",
+        "title": "1 lub 2 pokoje do własnej aranżacji. BEZPOŚREDNIO!"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Bielany",
+        "id": "565604406",
+        "link": "https://www.olx.pl/oferta/wyjatkowe-mieszkanie-inwestycyjne-gotowiec-8-CID3-IDChdxI.html#343ed7b49d;promoted",
+        "title": "Wyjątkowe mieszkanie inwestycyjne/Gotowiec 8%"
+    },
+    {
+        "address": "Warszawa, Praga-Północ, Turmoncka ",
+        "district": "Warszawa, Praga-Północ",
+        "id": "565619347",
+        "latitude": 52.29825140000001,
+        "link": "https://www.olx.pl/oferta/doskonala-lokalizacja-petla-autobusowa-s8-trasa-targowek-CID3-IDChhqH.html#343ed7b49d",
+        "longitude": 21.035453399999998,
+        "precise": false,
+        "title": "DOSKONAŁA lokalizacja pętla autobusowa s8 trasa Targówek"
+    },
+    {
+        "address": "Warszawa, Mokotów, ul. Portofino",
+        "district": "Warszawa, Mokotów",
+        "id": "565752434",
+        "latitude": 52.1771809,
+        "link": "https://www.otodom.pl/oferta/bezposrednio-mieszkanie-2-pokoje-42m2-stegny-ID428yP.html?",
+        "longitude": 21.060007199999998,
+        "precise": false,
+        "title": "BEZPOŚREDNIO! Mieszkanie 2 pokoje - 42m2, STEGNY"
+    },
+    {
+        "address": "Warszawa, Targówek, ul. Władysława Syrokomli",
+        "district": "Warszawa, Targówek",
+        "id": "565755795",
+        "latitude": 52.285294,
+        "link": "https://www.otodom.pl/oferta/bezposrednio-2-pokoje-41m2-po-remoncie-brodno-ID43k7m.html?",
+        "longitude": 21.0254115,
+        "precise": false,
+        "title": "BEZPOŚREDNIO - 2 pokoje-41m2, po remoncie, Bródno"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Targówek",
+        "id": "565810503",
+        "link": "https://www.olx.pl/oferta/mieszkanie-skarbka-z-gor-53-m2-CID3-IDCi59R.html#343ed7b49d",
+        "title": "Mieszkanie Skarbka z gór 53 m2"
+    },
+    {
+        "address": null,
+        "district": "Warszawa, Ursynów",
+        "id": "565836741",
+        "link": "https://www.olx.pl/oferta/mieszkanie-ursynow-53m2-metro-stoklosy-bezposrednio-3-pokoje-CID3-IDCibZ3.html#343ed7b49d;promoted",
+        "title": "Mieszkanie Ursynów 53m2 Metro Stokłosy Bezpośrednio 3 pokoje"
+    }
+]

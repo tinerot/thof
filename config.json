@@ -1,0 +1,29 @@
+{
+  "api_key": "AIzaSyDRcJVHtNAgJC-U2Mat9CwIgR0mrwIQv9U",
+  "districts_blacklist" : ["Białołęka", "Wilanów", "Wesoła", "Wawer", "Ursus", "Rembertów", "Tarchomin", "Bródno", "Bemowo", "Włochy"],
+  "email_notification": {
+    "enabled": false,
+    "smtp_server": "smtp.gmail.com",
+    "port": 465,
+    "sender_email": "sender_email",
+    "password": "sender_password",
+    "receiver_email": "receiver_email",
+    "url": "tinerot.github.io"
+  },
+  "gumtree_settings": {
+    "banned_users": ["v1u121059903p1", "v1u113627808p1"]
+  },
+  "search_pairs": [
+    {
+      "gumtree": {
+        "unique_id": "1",
+        "min_flat_size": 75,
+        "search_url": "/s-mieszkania-i-domy-sprzedam-i-kupie/warszawa/v1c9073l3200008p1?df=ownr&pr=,450000&sort=dt&order=desc"
+      },
+      "olx": {
+        "unique_id": "1",
+        "search_url": "/nieruchomosci/mieszkania/sprzedaz/warszawa/?search%5Bfilter_float_price%3Ato%5D=450000&search%5Bfilter_float_m%3Afrom%5D=38&search%5Bfilter_enum_rooms%5D%5B0%5D=two&search%5Bfilter_enum_rooms%5D%5B1%5D=three&search%5Bfilter_enum_rooms%5D%5B2%5D=four&search%5Bphotos%5D=1&search%5Bprivate_business%5D=private&search%5Border%5D=created_at%3Adesc"
+      }
+    }
+  ]
+}
